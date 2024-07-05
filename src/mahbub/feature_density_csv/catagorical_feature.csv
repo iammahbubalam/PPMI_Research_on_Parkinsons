@@ -1,0 +1,1315 @@
+Feature,Group,Value,Density
+NP1ANXS,Mild,0,0.77
+NP1ANXS,Mild,1,0.20
+NP1ANXS,Mild,2,0.03
+NP1ANXS,Mild,3,0.01
+NP1ANXS,Minimal,0,0.92
+NP1ANXS,Minimal,1,0.08
+NP1ANXS,Moderate,0,0.64
+NP1ANXS,Moderate,1,0.31
+NP1ANXS,Moderate,2,0.04
+NP1ANXS,Moderate,3,0.01
+NP1ANXS,Moderate to Severe,0,0.61
+NP1ANXS,Moderate to Severe,1,0.28
+NP1ANXS,Moderate to Severe,2,0.08
+NP1ANXS,Moderate to Severe,3,0.04
+NP1ANXS,Severe,0,0.50
+NP1ANXS,Severe,1,0.28
+NP1ANXS,Severe,2,0.12
+NP1ANXS,Severe,3,0.10
+NP1ANXS,Very Severe,0,0.32
+NP1ANXS,Very Severe,1,0.42
+NP1ANXS,Very Severe,2,0.11
+NP1ANXS,Very Severe,3,0.16
+NP1APAT,Mild,0,0.90
+NP1APAT,Mild,1,0.09
+NP1APAT,Mild,2,0.01
+NP1APAT,Minimal,0,1.00
+NP1APAT,Moderate,0,0.74
+NP1APAT,Moderate,1,0.22
+NP1APAT,Moderate,2,0.04
+NP1APAT,Moderate to Severe,0,0.63
+NP1APAT,Moderate to Severe,1,0.28
+NP1APAT,Moderate to Severe,2,0.08
+NP1APAT,Moderate to Severe,3,0.01
+NP1APAT,Severe,0,0.43
+NP1APAT,Severe,1,0.28
+NP1APAT,Severe,2,0.24
+NP1APAT,Severe,3,0.05
+NP1APAT,Very Severe,0,0.37
+NP1APAT,Very Severe,1,0.21
+NP1APAT,Very Severe,2,0.32
+NP1APAT,Very Severe,3,0.11
+NP1COG,Mild,0,0.76
+NP1COG,Mild,1,0.22
+NP1COG,Mild,2,0.01
+NP1COG,Minimal,0,0.94
+NP1COG,Minimal,1,0.06
+NP1COG,Moderate,0,0.66
+NP1COG,Moderate,1,0.30
+NP1COG,Moderate,2,0.04
+NP1COG,Moderate to Severe,0,0.61
+NP1COG,Moderate to Severe,1,0.29
+NP1COG,Moderate to Severe,2,0.08
+NP1COG,Moderate to Severe,3,0.01
+NP1COG,Moderate to Severe,4,0.01
+NP1COG,Severe,0,0.33
+NP1COG,Severe,1,0.45
+NP1COG,Severe,2,0.14
+NP1COG,Severe,3,0.07
+NP1COG,Severe,4,0.02
+NP1COG,Very Severe,0,0.47
+NP1COG,Very Severe,1,0.21
+NP1COG,Very Severe,2,0.26
+NP1COG,Very Severe,3,0.05
+NP1DDS,Mild,0,0.98
+NP1DDS,Mild,1,0.02
+NP1DDS,Mild,2,0.00
+NP1DDS,Minimal,0,1.00
+NP1DDS,Moderate,0,0.96
+NP1DDS,Moderate,1,0.03
+NP1DDS,Moderate,2,0.01
+NP1DDS,Moderate to Severe,0,0.95
+NP1DDS,Moderate to Severe,1,0.04
+NP1DDS,Moderate to Severe,2,0.01
+NP1DDS,Severe,0,0.83
+NP1DDS,Severe,1,0.10
+NP1DDS,Severe,2,0.07
+NP1DDS,Very Severe,0,0.95
+NP1DDS,Very Severe,1,0.05
+NP1DPRS,Mild,0,0.81
+NP1DPRS,Mild,1,0.17
+NP1DPRS,Mild,2,0.02
+NP1DPRS,Minimal,0,0.83
+NP1DPRS,Minimal,1,0.17
+NP1DPRS,Moderate,0,0.71
+NP1DPRS,Moderate,1,0.25
+NP1DPRS,Moderate,2,0.04
+NP1DPRS,Moderate,3,0.01
+NP1DPRS,Moderate to Severe,0,0.61
+NP1DPRS,Moderate to Severe,1,0.30
+NP1DPRS,Moderate to Severe,2,0.07
+NP1DPRS,Moderate to Severe,3,0.03
+NP1DPRS,Severe,0,0.53
+NP1DPRS,Severe,1,0.24
+NP1DPRS,Severe,2,0.16
+NP1DPRS,Severe,3,0.07
+NP1DPRS,Very Severe,0,0.26
+NP1DPRS,Very Severe,1,0.53
+NP1DPRS,Very Severe,2,0.05
+NP1DPRS,Very Severe,3,0.16
+NP1HALL,Mild,0,0.96
+NP1HALL,Mild,1,0.04
+NP1HALL,Minimal,0,1.00
+NP1HALL,Moderate,0,0.95
+NP1HALL,Moderate,1,0.05
+NP1HALL,Moderate to Severe,0,0.90
+NP1HALL,Moderate to Severe,1,0.09
+NP1HALL,Moderate to Severe,2,0.01
+NP1HALL,Severe,0,0.78
+NP1HALL,Severe,1,0.19
+NP1HALL,Severe,2,0.02
+NP1HALL,Severe,3,0.02
+NP1HALL,Very Severe,0,0.74
+NP1HALL,Very Severe,1,0.21
+NP1HALL,Very Severe,3,0.05
+NP1CNST,Mild,0,0.69
+NP1CNST,Mild,1,0.26
+NP1CNST,Mild,2,0.04
+NP1CNST,Mild,3,0.01
+NP1CNST,Minimal,0,0.83
+NP1CNST,Minimal,1,0.15
+NP1CNST,Minimal,3,0.02
+NP1CNST,Moderate,0,0.56
+NP1CNST,Moderate,1,0.36
+NP1CNST,Moderate,2,0.06
+NP1CNST,Moderate,3,0.01
+NP1CNST,Moderate to Severe,0,0.49
+NP1CNST,Moderate to Severe,1,0.33
+NP1CNST,Moderate to Severe,2,0.14
+NP1CNST,Moderate to Severe,3,0.04
+NP1CNST,Severe,0,0.19
+NP1CNST,Severe,1,0.36
+NP1CNST,Severe,2,0.34
+NP1CNST,Severe,3,0.10
+NP1CNST,Very Severe,0,0.42
+NP1CNST,Very Severe,1,0.16
+NP1CNST,Very Severe,2,0.16
+NP1CNST,Very Severe,3,0.26
+NP1FATG,Mild,0,0.60
+NP1FATG,Mild,1,0.36
+NP1FATG,Mild,2,0.04
+NP1FATG,Mild,3,0.01
+NP1FATG,Minimal,0,0.85
+NP1FATG,Minimal,1,0.15
+NP1FATG,Moderate,0,0.42
+NP1FATG,Moderate,1,0.44
+NP1FATG,Moderate,2,0.11
+NP1FATG,Moderate,3,0.03
+NP1FATG,Moderate,4,0.00
+NP1FATG,Moderate to Severe,0,0.32
+NP1FATG,Moderate to Severe,1,0.39
+NP1FATG,Moderate to Severe,2,0.23
+NP1FATG,Moderate to Severe,3,0.05
+NP1FATG,Moderate to Severe,4,0.02
+NP1FATG,Severe,0,0.21
+NP1FATG,Severe,1,0.22
+NP1FATG,Severe,2,0.40
+NP1FATG,Severe,3,0.14
+NP1FATG,Severe,4,0.03
+NP1FATG,Very Severe,0,0.11
+NP1FATG,Very Severe,1,0.21
+NP1FATG,Very Severe,2,0.42
+NP1FATG,Very Severe,3,0.21
+NP1FATG,Very Severe,4,0.05
+NP1LTHD,Mild,0,0.79
+NP1LTHD,Mild,1,0.20
+NP1LTHD,Mild,2,0.01
+NP1LTHD,Mild,4,0.00
+NP1LTHD,Minimal,0,0.91
+NP1LTHD,Minimal,1,0.09
+NP1LTHD,Moderate,0,0.70
+NP1LTHD,Moderate,1,0.25
+NP1LTHD,Moderate,2,0.04
+NP1LTHD,Moderate,3,0.01
+NP1LTHD,Moderate,4,0.00
+NP1LTHD,Moderate to Severe,0,0.57
+NP1LTHD,Moderate to Severe,1,0.30
+NP1LTHD,Moderate to Severe,2,0.10
+NP1LTHD,Moderate to Severe,3,0.02
+NP1LTHD,Moderate to Severe,4,0.01
+NP1LTHD,Severe,0,0.41
+NP1LTHD,Severe,1,0.34
+NP1LTHD,Severe,2,0.19
+NP1LTHD,Severe,3,0.05
+NP1LTHD,Very Severe,0,0.37
+NP1LTHD,Very Severe,1,0.16
+NP1LTHD,Very Severe,2,0.21
+NP1LTHD,Very Severe,3,0.26
+NP1PAIN,Mild,0,0.57
+NP1PAIN,Mild,1,0.36
+NP1PAIN,Mild,2,0.05
+NP1PAIN,Mild,3,0.02
+NP1PAIN,Mild,4,0.01
+NP1PAIN,Minimal,0,0.72
+NP1PAIN,Minimal,1,0.23
+NP1PAIN,Minimal,2,0.06
+NP1PAIN,Moderate,0,0.38
+NP1PAIN,Moderate,1,0.44
+NP1PAIN,Moderate,2,0.12
+NP1PAIN,Moderate,3,0.04
+NP1PAIN,Moderate,4,0.01
+NP1PAIN,Moderate to Severe,0,0.27
+NP1PAIN,Moderate to Severe,1,0.37
+NP1PAIN,Moderate to Severe,2,0.21
+NP1PAIN,Moderate to Severe,3,0.12
+NP1PAIN,Moderate to Severe,4,0.02
+NP1PAIN,Severe,0,0.17
+NP1PAIN,Severe,1,0.34
+NP1PAIN,Severe,2,0.28
+NP1PAIN,Severe,3,0.19
+NP1PAIN,Severe,4,0.02
+NP1PAIN,Very Severe,0,0.05
+NP1PAIN,Very Severe,1,0.21
+NP1PAIN,Very Severe,2,0.32
+NP1PAIN,Very Severe,3,0.42
+NP1SLPD,Mild,0,0.44
+NP1SLPD,Mild,1,0.37
+NP1SLPD,Mild,2,0.19
+NP1SLPD,Minimal,0,0.75
+NP1SLPD,Minimal,1,0.23
+NP1SLPD,Minimal,2,0.02
+NP1SLPD,Moderate,0,0.32
+NP1SLPD,Moderate,1,0.32
+NP1SLPD,Moderate,2,0.34
+NP1SLPD,Moderate,3,0.01
+NP1SLPD,Moderate,4,0.00
+NP1SLPD,Moderate to Severe,0,0.19
+NP1SLPD,Moderate to Severe,1,0.29
+NP1SLPD,Moderate to Severe,2,0.48
+NP1SLPD,Moderate to Severe,3,0.02
+NP1SLPD,Moderate to Severe,4,0.01
+NP1SLPD,Severe,0,0.14
+NP1SLPD,Severe,1,0.31
+NP1SLPD,Severe,2,0.52
+NP1SLPD,Severe,3,0.03
+NP1SLPD,Very Severe,0,0.16
+NP1SLPD,Very Severe,1,0.11
+NP1SLPD,Very Severe,2,0.47
+NP1SLPD,Very Severe,3,0.16
+NP1SLPD,Very Severe,4,0.11
+NP1SLPN,Mild,0,0.45
+NP1SLPN,Mild,1,0.29
+NP1SLPN,Mild,2,0.19
+NP1SLPN,Mild,3,0.07
+NP1SLPN,Mild,4,0.01
+NP1SLPN,Minimal,0,0.68
+NP1SLPN,Minimal,1,0.21
+NP1SLPN,Minimal,2,0.11
+NP1SLPN,Moderate,0,0.42
+NP1SLPN,Moderate,1,0.25
+NP1SLPN,Moderate,2,0.21
+NP1SLPN,Moderate,3,0.10
+NP1SLPN,Moderate,4,0.04
+NP1SLPN,Moderate to Severe,0,0.25
+NP1SLPN,Moderate to Severe,1,0.30
+NP1SLPN,Moderate to Severe,2,0.26
+NP1SLPN,Moderate to Severe,3,0.12
+NP1SLPN,Moderate to Severe,4,0.07
+NP1SLPN,Severe,0,0.28
+NP1SLPN,Severe,1,0.21
+NP1SLPN,Severe,2,0.24
+NP1SLPN,Severe,3,0.24
+NP1SLPN,Severe,4,0.03
+NP1SLPN,Very Severe,0,0.21
+NP1SLPN,Very Severe,1,0.21
+NP1SLPN,Very Severe,2,0.16
+NP1SLPN,Very Severe,3,0.26
+NP1SLPN,Very Severe,4,0.16
+NP1URIN,Mild,0,0.57
+NP1URIN,Mild,1,0.37
+NP1URIN,Mild,2,0.06
+NP1URIN,Mild,3,0.01
+NP1URIN,Minimal,0,0.62
+NP1URIN,Minimal,1,0.32
+NP1URIN,Minimal,2,0.04
+NP1URIN,Minimal,3,0.02
+NP1URIN,Moderate,0,0.40
+NP1URIN,Moderate,1,0.45
+NP1URIN,Moderate,2,0.12
+NP1URIN,Moderate,3,0.03
+NP1URIN,Moderate to Severe,0,0.27
+NP1URIN,Moderate to Severe,1,0.45
+NP1URIN,Moderate to Severe,2,0.19
+NP1URIN,Moderate to Severe,3,0.08
+NP1URIN,Moderate to Severe,4,0.01
+NP1URIN,Severe,0,0.19
+NP1URIN,Severe,1,0.34
+NP1URIN,Severe,2,0.22
+NP1URIN,Severe,3,0.24
+NP1URIN,Very Severe,0,0.11
+NP1URIN,Very Severe,1,0.11
+NP1URIN,Very Severe,2,0.32
+NP1URIN,Very Severe,3,0.42
+NP1URIN,Very Severe,4,0.05
+NP2DRES,Mild,0,0.74
+NP2DRES,Mild,1,0.26
+NP2DRES,Mild,2,0.00
+NP2DRES,Minimal,0,0.98
+NP2DRES,Minimal,1,0.02
+NP2DRES,Moderate,0,0.46
+NP2DRES,Moderate,1,0.48
+NP2DRES,Moderate,2,0.07
+NP2DRES,Moderate to Severe,0,0.19
+NP2DRES,Moderate to Severe,1,0.61
+NP2DRES,Moderate to Severe,2,0.21
+NP2DRES,Severe,1,0.48
+NP2DRES,Severe,2,0.50
+NP2DRES,Severe,3,0.02
+NP2DRES,Very Severe,1,0.26
+NP2DRES,Very Severe,2,0.53
+NP2DRES,Very Severe,3,0.21
+NP2EAT,Mild,0,0.83
+NP2EAT,Mild,1,0.17
+NP2EAT,Mild,2,0.01
+NP2EAT,Minimal,0,0.98
+NP2EAT,Minimal,1,0.02
+NP2EAT,Moderate,0,0.58
+NP2EAT,Moderate,1,0.39
+NP2EAT,Moderate,2,0.03
+NP2EAT,Moderate to Severe,0,0.35
+NP2EAT,Moderate to Severe,1,0.48
+NP2EAT,Moderate to Severe,2,0.17
+NP2EAT,Severe,0,0.12
+NP2EAT,Severe,1,0.59
+NP2EAT,Severe,2,0.29
+NP2EAT,Very Severe,0,0.11
+NP2EAT,Very Severe,1,0.37
+NP2EAT,Very Severe,2,0.37
+NP2EAT,Very Severe,3,0.16
+NP2FREZ,Mild,0,0.98
+NP2FREZ,Mild,1,0.02
+NP2FREZ,Minimal,0,0.98
+NP2FREZ,Minimal,1,0.02
+NP2FREZ,Moderate,0,0.94
+NP2FREZ,Moderate,1,0.06
+NP2FREZ,Moderate,2,0.00
+NP2FREZ,Moderate to Severe,0,0.83
+NP2FREZ,Moderate to Severe,1,0.15
+NP2FREZ,Moderate to Severe,2,0.01
+NP2FREZ,Severe,0,0.71
+NP2FREZ,Severe,1,0.21
+NP2FREZ,Severe,2,0.09
+NP2FREZ,Very Severe,0,0.26
+NP2FREZ,Very Severe,1,0.37
+NP2FREZ,Very Severe,2,0.16
+NP2FREZ,Very Severe,3,0.11
+NP2FREZ,Very Severe,4,0.11
+NP2HOBB,Mild,0,0.76
+NP2HOBB,Mild,1,0.23
+NP2HOBB,Mild,2,0.01
+NP2HOBB,Mild,4,0.00
+NP2HOBB,Minimal,0,0.96
+NP2HOBB,Minimal,1,0.04
+NP2HOBB,Moderate,0,0.50
+NP2HOBB,Moderate,1,0.43
+NP2HOBB,Moderate,2,0.06
+NP2HOBB,Moderate,3,0.01
+NP2HOBB,Moderate to Severe,0,0.25
+NP2HOBB,Moderate to Severe,1,0.48
+NP2HOBB,Moderate to Severe,2,0.22
+NP2HOBB,Moderate to Severe,3,0.04
+NP2HOBB,Moderate to Severe,4,0.01
+NP2HOBB,Severe,0,0.07
+NP2HOBB,Severe,1,0.47
+NP2HOBB,Severe,2,0.29
+NP2HOBB,Severe,3,0.16
+NP2HOBB,Severe,4,0.02
+NP2HOBB,Very Severe,1,0.21
+NP2HOBB,Very Severe,2,0.47
+NP2HOBB,Very Severe,3,0.21
+NP2HOBB,Very Severe,4,0.11
+NP2HWRT,Mild,0,0.48
+NP2HWRT,Mild,1,0.38
+NP2HWRT,Mild,2,0.13
+NP2HWRT,Mild,3,0.01
+NP2HWRT,Minimal,0,0.62
+NP2HWRT,Minimal,1,0.30
+NP2HWRT,Minimal,2,0.08
+NP2HWRT,Moderate,0,0.30
+NP2HWRT,Moderate,1,0.37
+NP2HWRT,Moderate,2,0.22
+NP2HWRT,Moderate,3,0.09
+NP2HWRT,Moderate,4,0.02
+NP2HWRT,Moderate to Severe,0,0.15
+NP2HWRT,Moderate to Severe,1,0.37
+NP2HWRT,Moderate to Severe,2,0.32
+NP2HWRT,Moderate to Severe,3,0.14
+NP2HWRT,Moderate to Severe,4,0.03
+NP2HWRT,Severe,0,0.09
+NP2HWRT,Severe,1,0.22
+NP2HWRT,Severe,2,0.26
+NP2HWRT,Severe,3,0.33
+NP2HWRT,Severe,4,0.10
+NP2HWRT,Very Severe,0,0.05
+NP2HWRT,Very Severe,1,0.11
+NP2HWRT,Very Severe,2,0.47
+NP2HWRT,Very Severe,3,0.32
+NP2HWRT,Very Severe,4,0.05
+NP2HYGN,Mild,0,0.83
+NP2HYGN,Mild,1,0.17
+NP2HYGN,Minimal,0,0.96
+NP2HYGN,Minimal,1,0.04
+NP2HYGN,Moderate,0,0.66
+NP2HYGN,Moderate,1,0.34
+NP2HYGN,Moderate to Severe,0,0.38
+NP2HYGN,Moderate to Severe,1,0.61
+NP2HYGN,Moderate to Severe,2,0.01
+NP2HYGN,Moderate to Severe,4,0.01
+NP2HYGN,Severe,0,0.26
+NP2HYGN,Severe,1,0.71
+NP2HYGN,Severe,2,0.03
+NP2HYGN,Very Severe,0,0.11
+NP2HYGN,Very Severe,1,0.79
+NP2HYGN,Very Severe,2,0.05
+NP2HYGN,Very Severe,3,0.05
+NP2RISE,Mild,0,0.69
+NP2RISE,Mild,1,0.30
+NP2RISE,Mild,2,0.01
+NP2RISE,Minimal,0,0.92
+NP2RISE,Minimal,1,0.08
+NP2RISE,Moderate,0,0.52
+NP2RISE,Moderate,1,0.44
+NP2RISE,Moderate,2,0.04
+NP2RISE,Moderate,3,0.00
+NP2RISE,Moderate to Severe,0,0.25
+NP2RISE,Moderate to Severe,1,0.55
+NP2RISE,Moderate to Severe,2,0.18
+NP2RISE,Moderate to Severe,3,0.03
+NP2RISE,Severe,0,0.03
+NP2RISE,Severe,1,0.50
+NP2RISE,Severe,2,0.41
+NP2RISE,Severe,3,0.05
+NP2RISE,Very Severe,0,0.05
+NP2RISE,Very Severe,1,0.26
+NP2RISE,Very Severe,2,0.37
+NP2RISE,Very Severe,3,0.26
+NP2RISE,Very Severe,4,0.05
+NP2SALV,Mild,0,0.76
+NP2SALV,Mild,1,0.12
+NP2SALV,Mild,2,0.09
+NP2SALV,Mild,3,0.03
+NP2SALV,Minimal,0,0.91
+NP2SALV,Minimal,1,0.04
+NP2SALV,Minimal,2,0.06
+NP2SALV,Moderate,0,0.58
+NP2SALV,Moderate,1,0.19
+NP2SALV,Moderate,2,0.13
+NP2SALV,Moderate,3,0.09
+NP2SALV,Moderate,4,0.01
+NP2SALV,Moderate to Severe,0,0.41
+NP2SALV,Moderate to Severe,1,0.17
+NP2SALV,Moderate to Severe,2,0.19
+NP2SALV,Moderate to Severe,3,0.19
+NP2SALV,Moderate to Severe,4,0.03
+NP2SALV,Severe,0,0.19
+NP2SALV,Severe,1,0.28
+NP2SALV,Severe,2,0.31
+NP2SALV,Severe,3,0.17
+NP2SALV,Severe,4,0.05
+NP2SALV,Very Severe,0,0.05
+NP2SALV,Very Severe,1,0.21
+NP2SALV,Very Severe,2,0.16
+NP2SALV,Very Severe,3,0.26
+NP2SALV,Very Severe,4,0.32
+NP2SPCH,Mild,0,0.75
+NP2SPCH,Mild,1,0.18
+NP2SPCH,Mild,2,0.06
+NP2SPCH,Mild,3,0.00
+NP2SPCH,Minimal,0,0.91
+NP2SPCH,Minimal,1,0.08
+NP2SPCH,Minimal,2,0.02
+NP2SPCH,Moderate,0,0.56
+NP2SPCH,Moderate,1,0.27
+NP2SPCH,Moderate,2,0.14
+NP2SPCH,Moderate,3,0.02
+NP2SPCH,Moderate to Severe,0,0.37
+NP2SPCH,Moderate to Severe,1,0.28
+NP2SPCH,Moderate to Severe,2,0.26
+NP2SPCH,Moderate to Severe,3,0.08
+NP2SPCH,Severe,0,0.17
+NP2SPCH,Severe,1,0.29
+NP2SPCH,Severe,2,0.29
+NP2SPCH,Severe,3,0.24
+NP2SPCH,Very Severe,0,0.16
+NP2SPCH,Very Severe,1,0.05
+NP2SPCH,Very Severe,2,0.26
+NP2SPCH,Very Severe,3,0.53
+NP2SWAL,Mild,0,0.93
+NP2SWAL,Mild,1,0.07
+NP2SWAL,Mild,2,0.01
+NP2SWAL,Minimal,0,0.96
+NP2SWAL,Minimal,1,0.04
+NP2SWAL,Moderate,0,0.79
+NP2SWAL,Moderate,1,0.20
+NP2SWAL,Moderate,2,0.00
+NP2SWAL,Moderate,3,0.01
+NP2SWAL,Moderate to Severe,0,0.65
+NP2SWAL,Moderate to Severe,1,0.31
+NP2SWAL,Moderate to Severe,2,0.02
+NP2SWAL,Moderate to Severe,3,0.02
+NP2SWAL,Severe,0,0.53
+NP2SWAL,Severe,1,0.31
+NP2SWAL,Severe,2,0.10
+NP2SWAL,Severe,3,0.05
+NP2SWAL,Very Severe,0,0.42
+NP2SWAL,Very Severe,1,0.26
+NP2SWAL,Very Severe,2,0.21
+NP2SWAL,Very Severe,3,0.11
+NP2TRMR,Mild,0,0.19
+NP2TRMR,Mild,1,0.61
+NP2TRMR,Mild,2,0.19
+NP2TRMR,Mild,3,0.01
+NP2TRMR,Minimal,0,0.32
+NP2TRMR,Minimal,1,0.51
+NP2TRMR,Minimal,2,0.17
+NP2TRMR,Moderate,0,0.12
+NP2TRMR,Moderate,1,0.63
+NP2TRMR,Moderate,2,0.20
+NP2TRMR,Moderate,3,0.05
+NP2TRMR,Moderate,4,0.01
+NP2TRMR,Moderate to Severe,0,0.15
+NP2TRMR,Moderate to Severe,1,0.50
+NP2TRMR,Moderate to Severe,2,0.25
+NP2TRMR,Moderate to Severe,3,0.07
+NP2TRMR,Moderate to Severe,4,0.03
+NP2TRMR,Severe,0,0.10
+NP2TRMR,Severe,1,0.36
+NP2TRMR,Severe,2,0.38
+NP2TRMR,Severe,3,0.10
+NP2TRMR,Severe,4,0.05
+NP2TRMR,Very Severe,0,0.05
+NP2TRMR,Very Severe,1,0.53
+NP2TRMR,Very Severe,2,0.16
+NP2TRMR,Very Severe,3,0.26
+NP2TURN,Mild,0,0.79
+NP2TURN,Mild,1,0.20
+NP2TURN,Mild,2,0.01
+NP2TURN,Minimal,0,1.00
+NP2TURN,Moderate,0,0.70
+NP2TURN,Moderate,1,0.29
+NP2TURN,Moderate,2,0.01
+NP2TURN,Moderate to Severe,0,0.37
+NP2TURN,Moderate to Severe,1,0.59
+NP2TURN,Moderate to Severe,2,0.04
+NP2TURN,Severe,0,0.19
+NP2TURN,Severe,1,0.62
+NP2TURN,Severe,2,0.19
+NP2TURN,Very Severe,0,0.16
+NP2TURN,Very Severe,1,0.37
+NP2TURN,Very Severe,2,0.32
+NP2TURN,Very Severe,3,0.16
+NP2WALK,Mild,0,0.73
+NP2WALK,Mild,1,0.27
+NP2WALK,Mild,2,0.00
+NP2WALK,Mild,3,0.00
+NP2WALK,Minimal,0,0.92
+NP2WALK,Minimal,1,0.08
+NP2WALK,Moderate,0,0.55
+NP2WALK,Moderate,1,0.43
+NP2WALK,Moderate,2,0.01
+NP2WALK,Moderate,3,0.01
+NP2WALK,Moderate to Severe,0,0.32
+NP2WALK,Moderate to Severe,1,0.52
+NP2WALK,Moderate to Severe,2,0.08
+NP2WALK,Moderate to Severe,3,0.08
+NP2WALK,Severe,0,0.12
+NP2WALK,Severe,1,0.72
+NP2WALK,Severe,2,0.16
+NP2WALK,Very Severe,0,0.05
+NP2WALK,Very Severe,1,0.32
+NP2WALK,Very Severe,2,0.21
+NP2WALK,Very Severe,3,0.37
+NP2WALK,Very Severe,4,0.05
+NP3BRADY,Mild,0.0,0.23
+NP3BRADY,Mild,1.0,0.61
+NP3BRADY,Mild,2.0,0.16
+NP3BRADY,Minimal,0.0,0.40
+NP3BRADY,Minimal,1.0,0.55
+NP3BRADY,Minimal,2.0,0.06
+NP3BRADY,Moderate,0.0,0.04
+NP3BRADY,Moderate,1.0,0.49
+NP3BRADY,Moderate,2.0,0.42
+NP3BRADY,Moderate,3.0,0.05
+NP3BRADY,Moderate to Severe,0.0,0.02
+NP3BRADY,Moderate to Severe,1.0,0.28
+NP3BRADY,Moderate to Severe,2.0,0.55
+NP3BRADY,Moderate to Severe,3.0,0.15
+NP3BRADY,Severe,0.0,0.02
+NP3BRADY,Severe,1.0,0.16
+NP3BRADY,Severe,2.0,0.50
+NP3BRADY,Severe,3.0,0.33
+NP3BRADY,Very Severe,1.0,0.16
+NP3BRADY,Very Severe,2.0,0.42
+NP3BRADY,Very Severe,3.0,0.37
+NP3BRADY,Very Severe,4.0,0.05
+NP3FACXP,Mild,0.0,0.28
+NP3FACXP,Mild,1.0,0.61
+NP3FACXP,Mild,2.0,0.11
+NP3FACXP,Mild,3.0,0.00
+NP3FACXP,Minimal,0.0,0.58
+NP3FACXP,Minimal,1.0,0.42
+NP3FACXP,Moderate,0.0,0.11
+NP3FACXP,Moderate,1.0,0.52
+NP3FACXP,Moderate,2.0,0.35
+NP3FACXP,Moderate,3.0,0.01
+NP3FACXP,Moderate to Severe,0.0,0.07
+NP3FACXP,Moderate to Severe,1.0,0.40
+NP3FACXP,Moderate to Severe,2.0,0.45
+NP3FACXP,Moderate to Severe,3.0,0.08
+NP3FACXP,Severe,0.0,0.02
+NP3FACXP,Severe,1.0,0.38
+NP3FACXP,Severe,2.0,0.45
+NP3FACXP,Severe,3.0,0.16
+NP3FACXP,Very Severe,1.0,0.26
+NP3FACXP,Very Severe,2.0,0.37
+NP3FACXP,Very Severe,3.0,0.32
+NP3FACXP,Very Severe,4.0,0.05
+NP3FRZGT,Mild,0.0,1.00
+NP3FRZGT,Mild,1.0,0.00
+NP3FRZGT,Minimal,0.0,1.00
+NP3FRZGT,Moderate,0.0,0.99
+NP3FRZGT,Moderate,1.0,0.01
+NP3FRZGT,Moderate,2.0,0.00
+NP3FRZGT,Moderate to Severe,0.0,0.98
+NP3FRZGT,Moderate to Severe,1.0,0.02
+NP3FRZGT,Severe,0.0,0.90
+NP3FRZGT,Severe,1.0,0.09
+NP3FRZGT,Severe,2.0,0.02
+NP3FRZGT,Very Severe,0.0,0.68
+NP3FRZGT,Very Severe,1.0,0.16
+NP3FRZGT,Very Severe,2.0,0.05
+NP3FRZGT,Very Severe,3.0,0.11
+NP3FTAPL,Mild,0.0,0.49
+NP3FTAPL,Mild,1.0,0.37
+NP3FTAPL,Mild,2.0,0.11
+NP3FTAPL,Mild,3.0,0.03
+NP3FTAPL,Minimal,0.0,0.79
+NP3FTAPL,Minimal,1.0,0.19
+NP3FTAPL,Minimal,2.0,0.02
+NP3FTAPL,Moderate,0.0,0.29
+NP3FTAPL,Moderate,1.0,0.35
+NP3FTAPL,Moderate,2.0,0.31
+NP3FTAPL,Moderate,3.0,0.05
+NP3FTAPL,Moderate to Severe,0.0,0.15
+NP3FTAPL,Moderate to Severe,1.0,0.37
+NP3FTAPL,Moderate to Severe,2.0,0.28
+NP3FTAPL,Moderate to Severe,3.0,0.18
+NP3FTAPL,Moderate to Severe,4.0,0.01
+NP3FTAPL,Severe,0.0,0.03
+NP3FTAPL,Severe,1.0,0.24
+NP3FTAPL,Severe,2.0,0.47
+NP3FTAPL,Severe,3.0,0.21
+NP3FTAPL,Severe,4.0,0.05
+NP3FTAPL,Very Severe,1.0,0.26
+NP3FTAPL,Very Severe,2.0,0.26
+NP3FTAPL,Very Severe,3.0,0.42
+NP3FTAPL,Very Severe,4.0,0.05
+NP3FTAPR,Mild,0.0,0.45
+NP3FTAPR,Mild,1.0,0.41
+NP3FTAPR,Mild,2.0,0.13
+NP3FTAPR,Mild,3.0,0.02
+NP3FTAPR,Minimal,0.0,0.49
+NP3FTAPR,Minimal,1.0,0.38
+NP3FTAPR,Minimal,2.0,0.13
+NP3FTAPR,Moderate,0.0,0.25
+NP3FTAPR,Moderate,1.0,0.45
+NP3FTAPR,Moderate,2.0,0.25
+NP3FTAPR,Moderate,3.0,0.05
+NP3FTAPR,Moderate,4.0,0.00
+NP3FTAPR,Moderate to Severe,0.0,0.11
+NP3FTAPR,Moderate to Severe,1.0,0.35
+NP3FTAPR,Moderate to Severe,2.0,0.34
+NP3FTAPR,Moderate to Severe,3.0,0.19
+NP3FTAPR,Moderate to Severe,4.0,0.01
+NP3FTAPR,Severe,0.0,0.09
+NP3FTAPR,Severe,1.0,0.24
+NP3FTAPR,Severe,2.0,0.48
+NP3FTAPR,Severe,3.0,0.17
+NP3FTAPR,Severe,4.0,0.02
+NP3FTAPR,Very Severe,1.0,0.11
+NP3FTAPR,Very Severe,2.0,0.53
+NP3FTAPR,Very Severe,3.0,0.37
+NP3GAIT,Mild,0.0,0.53
+NP3GAIT,Mild,1.0,0.45
+NP3GAIT,Mild,2.0,0.01
+NP3GAIT,Mild,3.0,0.00
+NP3GAIT,Minimal,0.0,0.62
+NP3GAIT,Minimal,1.0,0.38
+NP3GAIT,Moderate,0.0,0.34
+NP3GAIT,Moderate,1.0,0.60
+NP3GAIT,Moderate,2.0,0.06
+NP3GAIT,Moderate to Severe,0.0,0.18
+NP3GAIT,Moderate to Severe,1.0,0.60
+NP3GAIT,Moderate to Severe,2.0,0.17
+NP3GAIT,Moderate to Severe,3.0,0.05
+NP3GAIT,Severe,0.0,0.19
+NP3GAIT,Severe,1.0,0.52
+NP3GAIT,Severe,2.0,0.26
+NP3GAIT,Severe,3.0,0.03
+NP3GAIT,Very Severe,0.0,0.05
+NP3GAIT,Very Severe,1.0,0.32
+NP3GAIT,Very Severe,2.0,0.32
+NP3GAIT,Very Severe,3.0,0.26
+NP3GAIT,Very Severe,4.0,0.05
+NP3HMOVL,Mild,0.0,0.60
+NP3HMOVL,Mild,1.0,0.32
+NP3HMOVL,Mild,2.0,0.07
+NP3HMOVL,Mild,3.0,0.01
+NP3HMOVL,Minimal,0.0,0.87
+NP3HMOVL,Minimal,1.0,0.13
+NP3HMOVL,Moderate,0.0,0.34
+NP3HMOVL,Moderate,1.0,0.41
+NP3HMOVL,Moderate,2.0,0.23
+NP3HMOVL,Moderate,3.0,0.02
+NP3HMOVL,Moderate to Severe,0.0,0.18
+NP3HMOVL,Moderate to Severe,1.0,0.39
+NP3HMOVL,Moderate to Severe,2.0,0.36
+NP3HMOVL,Moderate to Severe,3.0,0.06
+NP3HMOVL,Moderate to Severe,4.0,0.01
+NP3HMOVL,Severe,0.0,0.09
+NP3HMOVL,Severe,1.0,0.28
+NP3HMOVL,Severe,2.0,0.43
+NP3HMOVL,Severe,3.0,0.17
+NP3HMOVL,Severe,4.0,0.03
+NP3HMOVL,Very Severe,0.0,0.05
+NP3HMOVL,Very Severe,1.0,0.32
+NP3HMOVL,Very Severe,2.0,0.26
+NP3HMOVL,Very Severe,3.0,0.37
+NP3HMOVR,Mild,0.0,0.57
+NP3HMOVR,Mild,1.0,0.33
+NP3HMOVR,Mild,2.0,0.08
+NP3HMOVR,Mild,3.0,0.01
+NP3HMOVR,Minimal,0.0,0.68
+NP3HMOVR,Minimal,1.0,0.26
+NP3HMOVR,Minimal,2.0,0.06
+NP3HMOVR,Moderate,0.0,0.34
+NP3HMOVR,Moderate,1.0,0.45
+NP3HMOVR,Moderate,2.0,0.19
+NP3HMOVR,Moderate,3.0,0.02
+NP3HMOVR,Moderate to Severe,0.0,0.16
+NP3HMOVR,Moderate to Severe,1.0,0.41
+NP3HMOVR,Moderate to Severe,2.0,0.30
+NP3HMOVR,Moderate to Severe,3.0,0.12
+NP3HMOVR,Moderate to Severe,4.0,0.01
+NP3HMOVR,Severe,0.0,0.07
+NP3HMOVR,Severe,1.0,0.45
+NP3HMOVR,Severe,2.0,0.34
+NP3HMOVR,Severe,3.0,0.14
+NP3HMOVR,Very Severe,1.0,0.21
+NP3HMOVR,Very Severe,2.0,0.53
+NP3HMOVR,Very Severe,3.0,0.26
+NP3KTRML,Mild,0.0,0.75
+NP3KTRML,Mild,1.0,0.21
+NP3KTRML,Mild,2.0,0.04
+NP3KTRML,Minimal,0.0,0.94
+NP3KTRML,Minimal,1.0,0.06
+NP3KTRML,Moderate,0.0,0.69
+NP3KTRML,Moderate,1.0,0.28
+NP3KTRML,Moderate,2.0,0.03
+NP3KTRML,Moderate to Severe,0.0,0.53
+NP3KTRML,Moderate to Severe,1.0,0.41
+NP3KTRML,Moderate to Severe,2.0,0.06
+NP3KTRML,Severe,0.0,0.41
+NP3KTRML,Severe,1.0,0.31
+NP3KTRML,Severe,2.0,0.26
+NP3KTRML,Severe,3.0,0.02
+NP3KTRML,Very Severe,0.0,0.58
+NP3KTRML,Very Severe,1.0,0.32
+NP3KTRML,Very Severe,2.0,0.11
+NP3KTRMR,Mild,0.0,0.83
+NP3KTRMR,Mild,1.0,0.16
+NP3KTRMR,Mild,2.0,0.01
+NP3KTRMR,Minimal,0.0,0.94
+NP3KTRMR,Minimal,1.0,0.06
+NP3KTRMR,Moderate,0.0,0.68
+NP3KTRMR,Moderate,1.0,0.28
+NP3KTRMR,Moderate,2.0,0.04
+NP3KTRMR,Moderate to Severe,0.0,0.57
+NP3KTRMR,Moderate to Severe,1.0,0.36
+NP3KTRMR,Moderate to Severe,2.0,0.06
+NP3KTRMR,Severe,0.0,0.53
+NP3KTRMR,Severe,1.0,0.36
+NP3KTRMR,Severe,2.0,0.09
+NP3KTRMR,Severe,3.0,0.02
+NP3KTRMR,Very Severe,0.0,0.58
+NP3KTRMR,Very Severe,1.0,0.21
+NP3KTRMR,Very Severe,2.0,0.21
+NP3LGAGL,Mild,0.0,0.71
+NP3LGAGL,Mild,1.0,0.25
+NP3LGAGL,Mild,2.0,0.04
+NP3LGAGL,Minimal,0.0,0.91
+NP3LGAGL,Minimal,1.0,0.08
+NP3LGAGL,Minimal,2.0,0.02
+NP3LGAGL,Moderate,0.0,0.49
+NP3LGAGL,Moderate,1.0,0.37
+NP3LGAGL,Moderate,2.0,0.13
+NP3LGAGL,Moderate,3.0,0.00
+NP3LGAGL,Moderate to Severe,0.0,0.35
+NP3LGAGL,Moderate to Severe,1.0,0.41
+NP3LGAGL,Moderate to Severe,2.0,0.20
+NP3LGAGL,Moderate to Severe,3.0,0.04
+NP3LGAGL,Severe,0.0,0.12
+NP3LGAGL,Severe,1.0,0.40
+NP3LGAGL,Severe,2.0,0.40
+NP3LGAGL,Severe,3.0,0.09
+NP3LGAGL,Very Severe,0.0,0.05
+NP3LGAGL,Very Severe,1.0,0.16
+NP3LGAGL,Very Severe,2.0,0.32
+NP3LGAGL,Very Severe,3.0,0.37
+NP3LGAGL,Very Severe,4.0,0.11
+NP3LGAGR,Mild,0.0,0.72
+NP3LGAGR,Mild,1.0,0.28
+NP3LGAGR,Mild,2.0,0.00
+NP3LGAGR,Minimal,0.0,0.85
+NP3LGAGR,Minimal,1.0,0.13
+NP3LGAGR,Minimal,2.0,0.02
+NP3LGAGR,Moderate,0.0,0.54
+NP3LGAGR,Moderate,1.0,0.40
+NP3LGAGR,Moderate,2.0,0.06
+NP3LGAGR,Moderate,3.0,0.00
+NP3LGAGR,Moderate to Severe,0.0,0.32
+NP3LGAGR,Moderate to Severe,1.0,0.42
+NP3LGAGR,Moderate to Severe,2.0,0.24
+NP3LGAGR,Moderate to Severe,3.0,0.03
+NP3LGAGR,Severe,0.0,0.21
+NP3LGAGR,Severe,1.0,0.41
+NP3LGAGR,Severe,2.0,0.28
+NP3LGAGR,Severe,3.0,0.09
+NP3LGAGR,Severe,4.0,0.02
+NP3LGAGR,Very Severe,0.0,0.05
+NP3LGAGR,Very Severe,1.0,0.16
+NP3LGAGR,Very Severe,2.0,0.47
+NP3LGAGR,Very Severe,3.0,0.21
+NP3LGAGR,Very Severe,4.0,0.11
+NP3POSTR,Mild,0.0,0.67
+NP3POSTR,Mild,1.0,0.29
+NP3POSTR,Mild,2.0,0.03
+NP3POSTR,Mild,3.0,0.01
+NP3POSTR,Minimal,0.0,0.91
+NP3POSTR,Minimal,1.0,0.09
+NP3POSTR,Moderate,0.0,0.35
+NP3POSTR,Moderate,1.0,0.50
+NP3POSTR,Moderate,2.0,0.13
+NP3POSTR,Moderate,3.0,0.01
+NP3POSTR,Moderate to Severe,0.0,0.17
+NP3POSTR,Moderate to Severe,1.0,0.52
+NP3POSTR,Moderate to Severe,2.0,0.28
+NP3POSTR,Moderate to Severe,3.0,0.04
+NP3POSTR,Severe,0.0,0.09
+NP3POSTR,Severe,1.0,0.43
+NP3POSTR,Severe,2.0,0.41
+NP3POSTR,Severe,3.0,0.07
+NP3POSTR,Very Severe,0.0,0.05
+NP3POSTR,Very Severe,1.0,0.32
+NP3POSTR,Very Severe,2.0,0.42
+NP3POSTR,Very Severe,3.0,0.21
+NP3PRSPL,Mild,0.0,0.58
+NP3PRSPL,Mild,1.0,0.32
+NP3PRSPL,Mild,2.0,0.07
+NP3PRSPL,Mild,3.0,0.02
+NP3PRSPL,Minimal,0.0,0.79
+NP3PRSPL,Minimal,1.0,0.19
+NP3PRSPL,Minimal,2.0,0.02
+NP3PRSPL,Moderate,0.0,0.38
+NP3PRSPL,Moderate,1.0,0.37
+NP3PRSPL,Moderate,2.0,0.22
+NP3PRSPL,Moderate,3.0,0.03
+NP3PRSPL,Moderate to Severe,0.0,0.30
+NP3PRSPL,Moderate to Severe,1.0,0.33
+NP3PRSPL,Moderate to Severe,2.0,0.24
+NP3PRSPL,Moderate to Severe,3.0,0.12
+NP3PRSPL,Moderate to Severe,4.0,0.01
+NP3PRSPL,Severe,0.0,0.21
+NP3PRSPL,Severe,1.0,0.22
+NP3PRSPL,Severe,2.0,0.34
+NP3PRSPL,Severe,3.0,0.19
+NP3PRSPL,Severe,4.0,0.03
+NP3PRSPL,Very Severe,0.0,0.16
+NP3PRSPL,Very Severe,1.0,0.16
+NP3PRSPL,Very Severe,2.0,0.32
+NP3PRSPL,Very Severe,3.0,0.32
+NP3PRSPL,Very Severe,4.0,0.05
+NP3PRSPR,Mild,0.0,0.56
+NP3PRSPR,Mild,1.0,0.31
+NP3PRSPR,Mild,2.0,0.12
+NP3PRSPR,Mild,3.0,0.01
+NP3PRSPR,Minimal,0.0,0.53
+NP3PRSPR,Minimal,1.0,0.40
+NP3PRSPR,Minimal,2.0,0.08
+NP3PRSPR,Moderate,0.0,0.40
+NP3PRSPR,Moderate,1.0,0.39
+NP3PRSPR,Moderate,2.0,0.19
+NP3PRSPR,Moderate,3.0,0.02
+NP3PRSPR,Moderate to Severe,0.0,0.20
+NP3PRSPR,Moderate to Severe,1.0,0.47
+NP3PRSPR,Moderate to Severe,2.0,0.17
+NP3PRSPR,Moderate to Severe,3.0,0.15
+NP3PRSPR,Moderate to Severe,4.0,0.01
+NP3PRSPR,Severe,0.0,0.12
+NP3PRSPR,Severe,1.0,0.43
+NP3PRSPR,Severe,2.0,0.36
+NP3PRSPR,Severe,3.0,0.09
+NP3PRSPR,Very Severe,0.0,0.05
+NP3PRSPR,Very Severe,1.0,0.21
+NP3PRSPR,Very Severe,2.0,0.42
+NP3PRSPR,Very Severe,3.0,0.32
+NP3PSTBL,Mild,0.0,0.95
+NP3PSTBL,Mild,1.0,0.05
+NP3PSTBL,Mild,2.0,0.01
+NP3PSTBL,Minimal,0.0,0.94
+NP3PSTBL,Minimal,1.0,0.06
+NP3PSTBL,Moderate,0.0,0.92
+NP3PSTBL,Moderate,1.0,0.07
+NP3PSTBL,Moderate,2.0,0.01
+NP3PSTBL,Moderate to Severe,0.0,0.80
+NP3PSTBL,Moderate to Severe,1.0,0.12
+NP3PSTBL,Moderate to Severe,2.0,0.03
+NP3PSTBL,Moderate to Severe,3.0,0.05
+NP3PSTBL,Moderate to Severe,4.0,0.01
+NP3PSTBL,Severe,0.0,0.72
+NP3PSTBL,Severe,1.0,0.21
+NP3PSTBL,Severe,3.0,0.07
+NP3PSTBL,Very Severe,0.0,0.21
+NP3PSTBL,Very Severe,1.0,0.21
+NP3PSTBL,Very Severe,2.0,0.16
+NP3PSTBL,Very Severe,3.0,0.26
+NP3PSTBL,Very Severe,4.0,0.16
+NP3PTRML,Mild,0.0,0.78
+NP3PTRML,Mild,1.0,0.20
+NP3PTRML,Mild,2.0,0.02
+NP3PTRML,Minimal,0.0,0.92
+NP3PTRML,Minimal,1.0,0.08
+NP3PTRML,Moderate,0.0,0.71
+NP3PTRML,Moderate,1.0,0.27
+NP3PTRML,Moderate,2.0,0.03
+NP3PTRML,Moderate,3.0,0.00
+NP3PTRML,Moderate to Severe,0.0,0.61
+NP3PTRML,Moderate to Severe,1.0,0.31
+NP3PTRML,Moderate to Severe,2.0,0.08
+NP3PTRML,Severe,0.0,0.50
+NP3PTRML,Severe,1.0,0.38
+NP3PTRML,Severe,2.0,0.12
+NP3PTRML,Very Severe,0.0,0.68
+NP3PTRML,Very Severe,1.0,0.21
+NP3PTRML,Very Severe,2.0,0.11
+NP3PTRMR,Mild,0.0,0.75
+NP3PTRMR,Mild,1.0,0.20
+NP3PTRMR,Mild,2.0,0.04
+NP3PTRMR,Mild,3.0,0.01
+NP3PTRMR,Minimal,0.0,0.83
+NP3PTRMR,Minimal,1.0,0.17
+NP3PTRMR,Moderate,0.0,0.63
+NP3PTRMR,Moderate,1.0,0.31
+NP3PTRMR,Moderate,2.0,0.04
+NP3PTRMR,Moderate,3.0,0.01
+NP3PTRMR,Moderate to Severe,0.0,0.59
+NP3PTRMR,Moderate to Severe,1.0,0.31
+NP3PTRMR,Moderate to Severe,2.0,0.10
+NP3PTRMR,Moderate to Severe,3.0,0.01
+NP3PTRMR,Severe,0.0,0.53
+NP3PTRMR,Severe,1.0,0.36
+NP3PTRMR,Severe,2.0,0.09
+NP3PTRMR,Severe,3.0,0.02
+NP3PTRMR,Very Severe,0.0,0.63
+NP3PTRMR,Very Severe,1.0,0.21
+NP3PTRMR,Very Severe,2.0,0.16
+NP3RIGLL,Mild,0.0,0.78
+NP3RIGLL,Mild,1.0,0.16
+NP3RIGLL,Mild,2.0,0.06
+NP3RIGLL,Mild,3.0,0.00
+NP3RIGLL,Minimal,0.0,0.91
+NP3RIGLL,Minimal,1.0,0.08
+NP3RIGLL,Minimal,2.0,0.02
+NP3RIGLL,Moderate,0.0,0.58
+NP3RIGLL,Moderate,1.0,0.23
+NP3RIGLL,Moderate,2.0,0.17
+NP3RIGLL,Moderate,3.0,0.01
+NP3RIGLL,Moderate to Severe,0.0,0.33
+NP3RIGLL,Moderate to Severe,1.0,0.37
+NP3RIGLL,Moderate to Severe,2.0,0.27
+NP3RIGLL,Moderate to Severe,3.0,0.03
+NP3RIGLL,Severe,0.0,0.21
+NP3RIGLL,Severe,1.0,0.36
+NP3RIGLL,Severe,2.0,0.40
+NP3RIGLL,Severe,3.0,0.03
+NP3RIGLL,Very Severe,0.0,0.16
+NP3RIGLL,Very Severe,1.0,0.21
+NP3RIGLL,Very Severe,2.0,0.47
+NP3RIGLL,Very Severe,3.0,0.16
+NP3RIGLU,Mild,0.0,0.53
+NP3RIGLU,Mild,1.0,0.31
+NP3RIGLU,Mild,2.0,0.16
+NP3RIGLU,Mild,3.0,0.01
+NP3RIGLU,Minimal,0.0,0.77
+NP3RIGLU,Minimal,1.0,0.15
+NP3RIGLU,Minimal,2.0,0.08
+NP3RIGLU,Moderate,0.0,0.30
+NP3RIGLU,Moderate,1.0,0.31
+NP3RIGLU,Moderate,2.0,0.37
+NP3RIGLU,Moderate,3.0,0.01
+NP3RIGLU,Moderate to Severe,0.0,0.21
+NP3RIGLU,Moderate to Severe,1.0,0.32
+NP3RIGLU,Moderate to Severe,2.0,0.43
+NP3RIGLU,Moderate to Severe,3.0,0.04
+NP3RIGLU,Severe,0.0,0.09
+NP3RIGLU,Severe,1.0,0.41
+NP3RIGLU,Severe,2.0,0.43
+NP3RIGLU,Severe,3.0,0.07
+NP3RIGLU,Very Severe,0.0,0.11
+NP3RIGLU,Very Severe,1.0,0.32
+NP3RIGLU,Very Severe,2.0,0.37
+NP3RIGLU,Very Severe,3.0,0.21
+NP3RIGN,Mild,0.0,0.68
+NP3RIGN,Mild,1.0,0.25
+NP3RIGN,Mild,2.0,0.07
+NP3RIGN,Minimal,0.0,0.77
+NP3RIGN,Minimal,1.0,0.23
+NP3RIGN,Moderate,0.0,0.34
+NP3RIGN,Moderate,1.0,0.37
+NP3RIGN,Moderate,2.0,0.28
+NP3RIGN,Moderate,3.0,0.02
+NP3RIGN,Moderate to Severe,0.0,0.18
+NP3RIGN,Moderate to Severe,1.0,0.42
+NP3RIGN,Moderate to Severe,2.0,0.32
+NP3RIGN,Moderate to Severe,3.0,0.08
+NP3RIGN,Severe,0.0,0.17
+NP3RIGN,Severe,1.0,0.31
+NP3RIGN,Severe,2.0,0.43
+NP3RIGN,Severe,3.0,0.09
+NP3RIGN,Very Severe,0.0,0.05
+NP3RIGN,Very Severe,1.0,0.21
+NP3RIGN,Very Severe,2.0,0.53
+NP3RIGN,Very Severe,3.0,0.05
+NP3RIGN,Very Severe,4.0,0.11
+NP3RIGN,Very Severe,32.0,0.05
+NP3RIGRL,Mild,0.0,0.69
+NP3RIGRL,Mild,1.0,0.22
+NP3RIGRL,Mild,2.0,0.09
+NP3RIGRL,Minimal,0.0,0.74
+NP3RIGRL,Minimal,1.0,0.21
+NP3RIGRL,Minimal,2.0,0.06
+NP3RIGRL,Moderate,0.0,0.49
+NP3RIGRL,Moderate,1.0,0.31
+NP3RIGRL,Moderate,2.0,0.19
+NP3RIGRL,Moderate,3.0,0.01
+NP3RIGRL,Moderate to Severe,0.0,0.31
+NP3RIGRL,Moderate to Severe,1.0,0.29
+NP3RIGRL,Moderate to Severe,2.0,0.31
+NP3RIGRL,Moderate to Severe,3.0,0.09
+NP3RIGRL,Severe,0.0,0.14
+NP3RIGRL,Severe,1.0,0.33
+NP3RIGRL,Severe,2.0,0.43
+NP3RIGRL,Severe,3.0,0.10
+NP3RIGRL,Very Severe,0.0,0.05
+NP3RIGRL,Very Severe,1.0,0.32
+NP3RIGRL,Very Severe,2.0,0.42
+NP3RIGRL,Very Severe,3.0,0.11
+NP3RIGRL,Very Severe,4.0,0.11
+NP3RIGRU,Mild,0.0,0.40
+NP3RIGRU,Mild,1.0,0.35
+NP3RIGRU,Mild,2.0,0.26
+NP3RIGRU,Minimal,0.0,0.57
+NP3RIGRU,Minimal,1.0,0.34
+NP3RIGRU,Minimal,2.0,0.09
+NP3RIGRU,Moderate,0.0,0.20
+NP3RIGRU,Moderate,1.0,0.39
+NP3RIGRU,Moderate,2.0,0.40
+NP3RIGRU,Moderate,3.0,0.02
+NP3RIGRU,Moderate to Severe,0.0,0.14
+NP3RIGRU,Moderate to Severe,1.0,0.26
+NP3RIGRU,Moderate to Severe,2.0,0.50
+NP3RIGRU,Moderate to Severe,3.0,0.10
+NP3RIGRU,Severe,0.0,0.16
+NP3RIGRU,Severe,1.0,0.19
+NP3RIGRU,Severe,2.0,0.47
+NP3RIGRU,Severe,3.0,0.19
+NP3RIGRU,Very Severe,1.0,0.11
+NP3RIGRU,Very Severe,2.0,0.63
+NP3RIGRU,Very Severe,3.0,0.26
+NP3RISNG,Mild,0.0,0.97
+NP3RISNG,Mild,1.0,0.03
+NP3RISNG,Minimal,0.0,1.00
+NP3RISNG,Moderate,0.0,0.86
+NP3RISNG,Moderate,1.0,0.12
+NP3RISNG,Moderate,2.0,0.01
+NP3RISNG,Moderate,3.0,0.00
+NP3RISNG,Moderate to Severe,0.0,0.59
+NP3RISNG,Moderate to Severe,1.0,0.30
+NP3RISNG,Moderate to Severe,2.0,0.10
+NP3RISNG,Moderate to Severe,3.0,0.01
+NP3RISNG,Severe,0.0,0.48
+NP3RISNG,Severe,1.0,0.36
+NP3RISNG,Severe,2.0,0.12
+NP3RISNG,Severe,3.0,0.03
+NP3RISNG,Very Severe,0.0,0.11
+NP3RISNG,Very Severe,1.0,0.37
+NP3RISNG,Very Severe,2.0,0.21
+NP3RISNG,Very Severe,3.0,0.32
+NP3RTALJ,Mild,0.0,0.96
+NP3RTALJ,Mild,1.0,0.04
+NP3RTALJ,Minimal,0.0,1.00
+NP3RTALJ,Moderate,0.0,0.95
+NP3RTALJ,Moderate,1.0,0.05
+NP3RTALJ,Moderate,2.0,0.00
+NP3RTALJ,Moderate to Severe,0.0,0.91
+NP3RTALJ,Moderate to Severe,1.0,0.06
+NP3RTALJ,Moderate to Severe,2.0,0.03
+NP3RTALJ,Moderate to Severe,3.0,0.01
+NP3RTALJ,Severe,0.0,0.84
+NP3RTALJ,Severe,1.0,0.07
+NP3RTALJ,Severe,2.0,0.07
+NP3RTALJ,Severe,3.0,0.02
+NP3RTALJ,Very Severe,0.0,0.89
+NP3RTALJ,Very Severe,1.0,0.05
+NP3RTALJ,Very Severe,2.0,0.05
+NP3RTALL,Mild,0.0,0.91
+NP3RTALL,Mild,1.0,0.07
+NP3RTALL,Mild,2.0,0.01
+NP3RTALL,Mild,3.0,0.00
+NP3RTALL,Minimal,0.0,0.98
+NP3RTALL,Minimal,1.0,0.02
+NP3RTALL,Moderate,0.0,0.87
+NP3RTALL,Moderate,1.0,0.10
+NP3RTALL,Moderate,2.0,0.03
+NP3RTALL,Moderate,3.0,0.00
+NP3RTALL,Moderate to Severe,0.0,0.88
+NP3RTALL,Moderate to Severe,1.0,0.09
+NP3RTALL,Moderate to Severe,2.0,0.03
+NP3RTALL,Severe,0.0,0.86
+NP3RTALL,Severe,1.0,0.09
+NP3RTALL,Severe,2.0,0.05
+NP3RTALL,Very Severe,0.0,1.00
+NP3RTALU,Mild,0.0,0.68
+NP3RTALU,Mild,1.0,0.17
+NP3RTALU,Mild,2.0,0.13
+NP3RTALU,Mild,3.0,0.02
+NP3RTALU,Minimal,0.0,0.87
+NP3RTALU,Minimal,1.0,0.09
+NP3RTALU,Minimal,2.0,0.04
+NP3RTALU,Moderate,0.0,0.64
+NP3RTALU,Moderate,1.0,0.16
+NP3RTALU,Moderate,2.0,0.17
+NP3RTALU,Moderate,3.0,0.03
+NP3RTALU,Moderate to Severe,0.0,0.59
+NP3RTALU,Moderate to Severe,1.0,0.17
+NP3RTALU,Moderate to Severe,2.0,0.19
+NP3RTALU,Moderate to Severe,3.0,0.04
+NP3RTALU,Severe,0.0,0.53
+NP3RTALU,Severe,1.0,0.19
+NP3RTALU,Severe,2.0,0.24
+NP3RTALU,Severe,3.0,0.03
+NP3RTALU,Very Severe,0.0,0.79
+NP3RTALU,Very Severe,1.0,0.05
+NP3RTALU,Very Severe,2.0,0.11
+NP3RTALU,Very Severe,3.0,0.05
+NP3RTARL,Mild,0.0,0.91
+NP3RTARL,Mild,1.0,0.07
+NP3RTARL,Mild,2.0,0.02
+NP3RTARL,Minimal,0.0,0.94
+NP3RTARL,Minimal,1.0,0.04
+NP3RTARL,Minimal,2.0,0.02
+NP3RTARL,Moderate,0.0,0.89
+NP3RTARL,Moderate,1.0,0.09
+NP3RTARL,Moderate,2.0,0.02
+NP3RTARL,Moderate,3.0,0.00
+NP3RTARL,Moderate to Severe,0.0,0.85
+NP3RTARL,Moderate to Severe,1.0,0.10
+NP3RTARL,Moderate to Severe,2.0,0.05
+NP3RTARL,Moderate to Severe,3.0,0.01
+NP3RTARL,Severe,0.0,0.86
+NP3RTARL,Severe,1.0,0.12
+NP3RTARL,Severe,3.0,0.02
+NP3RTARL,Very Severe,0.0,0.89
+NP3RTARL,Very Severe,1.0,0.05
+NP3RTARL,Very Severe,2.0,0.05
+NP3RTARU,Mild,0.0,0.67
+NP3RTARU,Mild,1.0,0.11
+NP3RTARU,Mild,2.0,0.18
+NP3RTARU,Mild,3.0,0.04
+NP3RTARU,Minimal,0.0,0.55
+NP3RTARU,Minimal,1.0,0.34
+NP3RTARU,Minimal,2.0,0.11
+NP3RTARU,Moderate,0.0,0.57
+NP3RTARU,Moderate,1.0,0.15
+NP3RTARU,Moderate,2.0,0.19
+NP3RTARU,Moderate,3.0,0.10
+NP3RTARU,Moderate to Severe,0.0,0.55
+NP3RTARU,Moderate to Severe,1.0,0.12
+NP3RTARU,Moderate to Severe,2.0,0.23
+NP3RTARU,Moderate to Severe,3.0,0.10
+NP3RTARU,Severe,0.0,0.60
+NP3RTARU,Severe,1.0,0.12
+NP3RTARU,Severe,2.0,0.09
+NP3RTARU,Severe,3.0,0.19
+NP3RTARU,Very Severe,0.0,0.53
+NP3RTARU,Very Severe,1.0,0.11
+NP3RTARU,Very Severe,2.0,0.21
+NP3RTARU,Very Severe,3.0,0.16
+NP3RTCON,Mild,0.0,0.39
+NP3RTCON,Mild,1.0,0.23
+NP3RTCON,Mild,2.0,0.17
+NP3RTCON,Mild,3.0,0.16
+NP3RTCON,Mild,4.0,0.05
+NP3RTCON,Minimal,0.0,0.45
+NP3RTCON,Minimal,1.0,0.34
+NP3RTCON,Minimal,2.0,0.13
+NP3RTCON,Minimal,3.0,0.08
+NP3RTCON,Moderate,0.0,0.26
+NP3RTCON,Moderate,1.0,0.27
+NP3RTCON,Moderate,2.0,0.20
+NP3RTCON,Moderate,3.0,0.21
+NP3RTCON,Moderate,4.0,0.07
+NP3RTCON,Moderate to Severe,0.0,0.32
+NP3RTCON,Moderate to Severe,1.0,0.21
+NP3RTCON,Moderate to Severe,2.0,0.19
+NP3RTCON,Moderate to Severe,3.0,0.20
+NP3RTCON,Moderate to Severe,4.0,0.08
+NP3RTCON,Severe,0.0,0.31
+NP3RTCON,Severe,1.0,0.22
+NP3RTCON,Severe,2.0,0.10
+NP3RTCON,Severe,3.0,0.26
+NP3RTCON,Severe,4.0,0.10
+NP3RTCON,Very Severe,0.0,0.47
+NP3RTCON,Very Severe,1.0,0.05
+NP3RTCON,Very Severe,2.0,0.26
+NP3RTCON,Very Severe,3.0,0.16
+NP3RTCON,Very Severe,4.0,0.05
+NP3SPCH,Mild,0.0,0.69
+NP3SPCH,Mild,1.0,0.30
+NP3SPCH,Mild,2.0,0.00
+NP3SPCH,Minimal,0.0,0.91
+NP3SPCH,Minimal,1.0,0.09
+NP3SPCH,Moderate,0.0,0.46
+NP3SPCH,Moderate,1.0,0.50
+NP3SPCH,Moderate,2.0,0.04
+NP3SPCH,Moderate to Severe,0.0,0.29
+NP3SPCH,Moderate to Severe,1.0,0.55
+NP3SPCH,Moderate to Severe,2.0,0.15
+NP3SPCH,Severe,0.0,0.10
+NP3SPCH,Severe,1.0,0.67
+NP3SPCH,Severe,2.0,0.22
+NP3SPCH,Very Severe,0.0,0.16
+NP3SPCH,Very Severe,1.0,0.42
+NP3SPCH,Very Severe,2.0,0.16
+NP3SPCH,Very Severe,3.0,0.26
+NP3TTAPL,Mild,0.0,0.44
+NP3TTAPL,Mild,1.0,0.46
+NP3TTAPL,Mild,2.0,0.09
+NP3TTAPL,Mild,3.0,0.01
+NP3TTAPL,Minimal,0.0,0.75
+NP3TTAPL,Minimal,1.0,0.25
+NP3TTAPL,Moderate,0.0,0.32
+NP3TTAPL,Moderate,1.0,0.38
+NP3TTAPL,Moderate,2.0,0.26
+NP3TTAPL,Moderate,3.0,0.05
+NP3TTAPL,Moderate to Severe,0.0,0.17
+NP3TTAPL,Moderate to Severe,1.0,0.35
+NP3TTAPL,Moderate to Severe,2.0,0.32
+NP3TTAPL,Moderate to Severe,3.0,0.15
+NP3TTAPL,Severe,0.0,0.05
+NP3TTAPL,Severe,1.0,0.36
+NP3TTAPL,Severe,2.0,0.45
+NP3TTAPL,Severe,3.0,0.14
+NP3TTAPL,Very Severe,0.0,0.05
+NP3TTAPL,Very Severe,2.0,0.37
+NP3TTAPL,Very Severe,3.0,0.53
+NP3TTAPL,Very Severe,4.0,0.05
+NP3TTAPR,Mild,0.0,0.54
+NP3TTAPR,Mild,1.0,0.38
+NP3TTAPR,Mild,2.0,0.08
+NP3TTAPR,Mild,3.0,0.01
+NP3TTAPR,Minimal,0.0,0.62
+NP3TTAPR,Minimal,1.0,0.36
+NP3TTAPR,Minimal,2.0,0.02
+NP3TTAPR,Moderate,0.0,0.33
+NP3TTAPR,Moderate,1.0,0.44
+NP3TTAPR,Moderate,2.0,0.22
+NP3TTAPR,Moderate,3.0,0.01
+NP3TTAPR,Moderate to Severe,0.0,0.12
+NP3TTAPR,Moderate to Severe,1.0,0.43
+NP3TTAPR,Moderate to Severe,2.0,0.37
+NP3TTAPR,Moderate to Severe,3.0,0.08
+NP3TTAPR,Moderate to Severe,4.0,0.01
+NP3TTAPR,Severe,0.0,0.07
+NP3TTAPR,Severe,1.0,0.34
+NP3TTAPR,Severe,2.0,0.50
+NP3TTAPR,Severe,3.0,0.03
+NP3TTAPR,Severe,4.0,0.05
+NP3TTAPR,Very Severe,1.0,0.21
+NP3TTAPR,Very Severe,2.0,0.11
+NP3TTAPR,Very Severe,3.0,0.63
+NP3TTAPR,Very Severe,4.0,0.05
+NHY,Mild,0.0,0.00
+NHY,Mild,1.0,0.58
+NHY,Mild,2.0,0.42
+NHY,Mild,3.0,0.00
+NHY,Minimal,1.0,0.79
+NHY,Minimal,2.0,0.17
+NHY,Minimal,3.0,0.04
+NHY,Moderate,0.0,0.00
+NHY,Moderate,1.0,0.20
+NHY,Moderate,2.0,0.79
+NHY,Moderate,3.0,0.01
+NHY,Moderate to Severe,1.0,0.10
+NHY,Moderate to Severe,2.0,0.81
+NHY,Moderate to Severe,3.0,0.08
+NHY,Moderate to Severe,4.0,0.01
+NHY,Severe,1.0,0.03
+NHY,Severe,2.0,0.90
+NHY,Severe,3.0,0.07
+NHY,Very Severe,1.0,0.05
+NHY,Very Severe,2.0,0.32
+NHY,Very Severe,3.0,0.32
+NHY,Very Severe,4.0,0.26
+NHY,Very Severe,5.0,0.05

@@ -1,0 +1,931 @@
+Feature,Group,Bin_Edges,Density,Frequency
+Area,Mild,49.0 - 796.0,0.146,41
+Area,Mild,796.0 - 1543.0,0.438,123
+Area,Mild,1543.0 - 2290.0,0.253,71
+Area,Mild,2290.0 - 3037.0,0.139,39
+Area,Mild,3037.0 - 3784.0,0.025,7
+Area,Minimal,80.0 - 625.4,0.057,3
+Area,Minimal,625.4 - 1170.8,0.415,22
+Area,Minimal,1170.8 - 1716.2,0.189,10
+Area,Minimal,1716.2 - 2261.6,0.245,13
+Area,Minimal,2261.6 - 2807.0,0.094,5
+Area,Moderate,27.0 - 706.2,0.110,38
+Area,Moderate,706.2 - 1385.4,0.442,153
+Area,Moderate,1385.4 - 2064.6,0.249,86
+Area,Moderate,2064.6 - 2743.8,0.153,53
+Area,Moderate,2743.8 - 3423.0,0.046,16
+Area,Moderate to Severe,3.0 - 751.0,0.148,23
+Area,Moderate to Severe,751.0 - 1499.0,0.458,71
+Area,Moderate to Severe,1499.0 - 2247.0,0.252,39
+Area,Moderate to Severe,2247.0 - 2995.0,0.123,19
+Area,Moderate to Severe,2995.0 - 3743.0,0.019,3
+Area,Severe,5.0 - 735.0,0.276,16
+Area,Severe,735.0 - 1465.0,0.362,21
+Area,Severe,1465.0 - 2195.0,0.207,12
+Area,Severe,2195.0 - 2925.0,0.138,8
+Area,Severe,2925.0 - 3655.0,0.017,1
+Area,Very Severe,4.0 - 680.0,0.158,3
+Area,Very Severe,680.0 - 1356.0,0.316,6
+Area,Very Severe,1356.0 - 2032.0,0.263,5
+Area,Very Severe,2032.0 - 2708.0,0.105,2
+Area,Very Severe,2708.0 - 3384.0,0.158,3
+Circularity,Mild,0.069 - 1.361,0.975,274
+Circularity,Mild,1.361 - 2.653,0.004,1
+Circularity,Mild,2.653 - 3.944,0.000,0
+Circularity,Mild,3.944 - 5.236,0.000,0
+Circularity,Mild,5.236 - 6.528,0.021,6
+Circularity,Minimal,0.029 - 1.329,0.981,52
+Circularity,Minimal,1.329 - 2.629,0.000,0
+Circularity,Minimal,2.629 - 3.93,0.000,0
+Circularity,Minimal,3.93 - 5.23,0.000,0
+Circularity,Minimal,5.23 - 6.53,0.019,1
+Circularity,Moderate,0.063 - 1.398,0.980,339
+Circularity,Moderate,1.398 - 2.733,0.000,0
+Circularity,Moderate,2.733 - 4.068,0.000,0
+Circularity,Moderate,4.068 - 5.403,0.000,0
+Circularity,Moderate,5.403 - 6.738,0.020,7
+Circularity,Moderate to Severe,0.071 - 1.732,0.955,148
+Circularity,Moderate to Severe,1.732 - 3.394,0.006,1
+Circularity,Moderate to Severe,3.394 - 5.055,0.000,0
+Circularity,Moderate to Severe,5.055 - 6.717,0.032,5
+Circularity,Moderate to Severe,6.717 - 8.378,0.006,1
+Circularity,Severe,0.09 - 1.865,0.948,55
+Circularity,Severe,1.865 - 3.641,0.000,0
+Circularity,Severe,3.641 - 5.416,0.000,0
+Circularity,Severe,5.416 - 7.192,0.034,2
+Circularity,Severe,7.192 - 8.967,0.017,1
+Circularity,Very Severe,0.085 - 0.533,0.842,16
+Circularity,Very Severe,0.533 - 0.982,0.053,1
+Circularity,Very Severe,0.982 - 1.43,0.053,1
+Circularity,Very Severe,1.43 - 1.879,0.000,0
+Circularity,Very Severe,1.879 - 2.327,0.053,1
+ConvexArea,Mild,68.0 - 1243.4,0.256,72
+ConvexArea,Mild,1243.4 - 2418.8,0.367,103
+ConvexArea,Mild,2418.8 - 3594.2,0.278,78
+ConvexArea,Mild,3594.2 - 4769.6,0.085,24
+ConvexArea,Mild,4769.6 - 5945.0,0.014,4
+ConvexArea,Minimal,110.0 - 1039.8,0.132,7
+ConvexArea,Minimal,1039.8 - 1969.6,0.453,24
+ConvexArea,Minimal,1969.6 - 2899.4,0.170,9
+ConvexArea,Minimal,2899.4 - 3829.2,0.189,10
+ConvexArea,Minimal,3829.2 - 4759.0,0.057,3
+ConvexArea,Moderate,45.0 - 1463.0,0.410,142
+ConvexArea,Moderate,1463.0 - 2881.0,0.361,125
+ConvexArea,Moderate,2881.0 - 4299.0,0.205,71
+ConvexArea,Moderate,4299.0 - 5717.0,0.017,6
+ConvexArea,Moderate,5717.0 - 7135.0,0.006,2
+ConvexArea,Moderate to Severe,3.0 - 1082.2,0.200,31
+ConvexArea,Moderate to Severe,1082.2 - 2161.4,0.381,59
+ConvexArea,Moderate to Severe,2161.4 - 3240.6,0.271,42
+ConvexArea,Moderate to Severe,3240.6 - 4319.8,0.116,18
+ConvexArea,Moderate to Severe,4319.8 - 5399.0,0.032,5
+ConvexArea,Severe,5.0 - 1113.0,0.362,21
+ConvexArea,Severe,1113.0 - 2221.0,0.310,18
+ConvexArea,Severe,2221.0 - 3329.0,0.207,12
+ConvexArea,Severe,3329.0 - 4437.0,0.103,6
+ConvexArea,Severe,4437.0 - 5545.0,0.017,1
+ConvexArea,Very Severe,4.0 - 1149.8,0.263,5
+ConvexArea,Very Severe,1149.8 - 2295.6,0.316,6
+ConvexArea,Very Severe,2295.6 - 3441.4,0.158,3
+ConvexArea,Very Severe,3441.4 - 4587.2,0.158,3
+ConvexArea,Very Severe,4587.2 - 5733.0,0.105,2
+EquivDiameter,Mild,7.0 - 19.6,0.025,7
+EquivDiameter,Mild,19.6 - 32.2,0.160,45
+EquivDiameter,Mild,32.2 - 44.8,0.445,125
+EquivDiameter,Mild,44.8 - 57.4,0.299,84
+EquivDiameter,Mild,57.4 - 70.0,0.071,20
+EquivDiameter,Minimal,9.0 - 19.2,0.038,2
+EquivDiameter,Minimal,19.2 - 29.4,0.057,3
+EquivDiameter,Minimal,29.4 - 39.6,0.396,21
+EquivDiameter,Minimal,39.6 - 49.8,0.264,14
+EquivDiameter,Minimal,49.8 - 60.0,0.245,13
+EquivDiameter,Moderate,5.0 - 17.4,0.029,10
+EquivDiameter,Moderate,17.4 - 29.8,0.130,45
+EquivDiameter,Moderate,29.8 - 42.2,0.431,149
+EquivDiameter,Moderate,42.2 - 54.6,0.306,106
+EquivDiameter,Moderate,54.6 - 67.0,0.104,36
+EquivDiameter,Moderate to Severe,2.0 - 15.6,0.026,4
+EquivDiameter,Moderate to Severe,15.6 - 29.2,0.168,26
+EquivDiameter,Moderate to Severe,29.2 - 42.8,0.432,67
+EquivDiameter,Moderate to Severe,42.8 - 56.4,0.303,47
+EquivDiameter,Moderate to Severe,56.4 - 70.0,0.071,11
+EquivDiameter,Severe,2.0 - 15.4,0.086,5
+EquivDiameter,Severe,15.4 - 28.8,0.207,12
+EquivDiameter,Severe,28.8 - 42.2,0.397,23
+EquivDiameter,Severe,42.2 - 55.6,0.190,11
+EquivDiameter,Severe,55.6 - 69.0,0.121,7
+EquivDiameter,Very Severe,2.0 - 14.8,0.105,2
+EquivDiameter,Very Severe,14.8 - 27.6,0.158,3
+EquivDiameter,Very Severe,27.6 - 40.4,0.211,4
+EquivDiameter,Very Severe,40.4 - 53.2,0.316,6
+EquivDiameter,Very Severe,53.2 - 66.0,0.211,4
+Extent,Mild,0.209 - 0.343,0.007,2
+Extent,Mild,0.343 - 0.476,0.093,26
+Extent,Mild,0.476 - 0.61,0.520,146
+Extent,Mild,0.61 - 0.743,0.359,101
+Extent,Mild,0.743 - 0.877,0.018,5
+Extent,Minimal,0.355 - 0.427,0.019,1
+Extent,Minimal,0.427 - 0.499,0.170,9
+Extent,Minimal,0.499 - 0.57,0.377,20
+Extent,Minimal,0.57 - 0.642,0.321,17
+Extent,Minimal,0.642 - 0.714,0.113,6
+Extent,Moderate,0.292 - 0.412,0.049,17
+Extent,Moderate,0.412 - 0.532,0.237,82
+Extent,Moderate,0.532 - 0.653,0.535,185
+Extent,Moderate,0.653 - 0.773,0.156,54
+Extent,Moderate,0.773 - 0.893,0.023,8
+Extent,Moderate to Severe,0.28 - 0.424,0.045,7
+Extent,Moderate to Severe,0.424 - 0.568,0.458,71
+Extent,Moderate to Severe,0.568 - 0.712,0.413,64
+Extent,Moderate to Severe,0.712 - 0.856,0.077,12
+Extent,Moderate to Severe,0.856 - 1.0,0.006,1
+Extent,Severe,0.176 - 0.295,0.034,2
+Extent,Severe,0.295 - 0.414,0.034,2
+Extent,Severe,0.414 - 0.533,0.310,18
+Extent,Severe,0.533 - 0.652,0.466,27
+Extent,Severe,0.652 - 0.771,0.138,8
+Extent,Very Severe,0.3 - 0.381,0.105,2
+Extent,Very Severe,0.381 - 0.461,0.053,1
+Extent,Very Severe,0.461 - 0.542,0.421,8
+Extent,Very Severe,0.542 - 0.622,0.211,4
+Extent,Very Severe,0.622 - 0.703,0.211,4
+FilledArea,Mild,49.0 - 798.8,0.146,41
+FilledArea,Mild,798.8 - 1548.6,0.438,123
+FilledArea,Mild,1548.6 - 2298.4,0.253,71
+FilledArea,Mild,2298.4 - 3048.2,0.139,39
+FilledArea,Mild,3048.2 - 3798.0,0.025,7
+FilledArea,Minimal,80.0 - 629.2,0.057,3
+FilledArea,Minimal,629.2 - 1178.4,0.415,22
+FilledArea,Minimal,1178.4 - 1727.6,0.189,10
+FilledArea,Minimal,1727.6 - 2276.8,0.245,13
+FilledArea,Minimal,2276.8 - 2826.0,0.094,5
+FilledArea,Moderate,27.0 - 707.4,0.107,37
+FilledArea,Moderate,707.4 - 1387.8,0.439,152
+FilledArea,Moderate,1387.8 - 2068.2,0.251,87
+FilledArea,Moderate,2068.2 - 2748.6,0.156,54
+FilledArea,Moderate,2748.6 - 3429.0,0.046,16
+FilledArea,Moderate to Severe,3.0 - 753.8,0.148,23
+FilledArea,Moderate to Severe,753.8 - 1504.6,0.458,71
+FilledArea,Moderate to Severe,1504.6 - 2255.4,0.252,39
+FilledArea,Moderate to Severe,2255.4 - 3006.2,0.123,19
+FilledArea,Moderate to Severe,3006.2 - 3757.0,0.019,3
+FilledArea,Severe,5.0 - 738.4,0.276,16
+FilledArea,Severe,738.4 - 1471.8,0.362,21
+FilledArea,Severe,1471.8 - 2205.2,0.207,12
+FilledArea,Severe,2205.2 - 2938.6,0.138,8
+FilledArea,Severe,2938.6 - 3672.0,0.017,1
+FilledArea,Very Severe,4.0 - 684.0,0.211,4
+FilledArea,Very Severe,684.0 - 1364.0,0.263,5
+FilledArea,Very Severe,1364.0 - 2044.0,0.263,5
+FilledArea,Very Severe,2044.0 - 2724.0,0.105,2
+FilledArea,Very Severe,2724.0 - 3404.0,0.158,3
+Kurtosis,Mild,10.0 - 28.8,0.021,6
+Kurtosis,Mild,28.8 - 47.6,0.295,83
+Kurtosis,Mild,47.6 - 66.4,0.463,130
+Kurtosis,Mild,66.4 - 85.2,0.171,48
+Kurtosis,Mild,85.2 - 104.0,0.050,14
+Kurtosis,Minimal,27.0 - 48.8,0.283,15
+Kurtosis,Minimal,48.8 - 70.6,0.528,28
+Kurtosis,Minimal,70.6 - 92.4,0.170,9
+Kurtosis,Minimal,92.4 - 114.2,0.000,0
+Kurtosis,Minimal,114.2 - 136.0,0.019,1
+Kurtosis,Moderate,14.0 - 36.2,0.078,27
+Kurtosis,Moderate,36.2 - 58.4,0.520,180
+Kurtosis,Moderate,58.4 - 80.6,0.321,111
+Kurtosis,Moderate,80.6 - 102.8,0.061,21
+Kurtosis,Moderate,102.8 - 125.0,0.020,7
+Kurtosis,Moderate to Severe,11.0 - 42.2,0.239,37
+Kurtosis,Moderate to Severe,42.2 - 73.4,0.684,106
+Kurtosis,Moderate to Severe,73.4 - 104.6,0.071,11
+Kurtosis,Moderate to Severe,104.6 - 135.8,0.000,0
+Kurtosis,Moderate to Severe,135.8 - 167.0,0.006,1
+Kurtosis,Severe,23.0 - 42.2,0.293,17
+Kurtosis,Severe,42.2 - 61.4,0.362,21
+Kurtosis,Severe,61.4 - 80.6,0.207,12
+Kurtosis,Severe,80.6 - 99.8,0.121,7
+Kurtosis,Severe,99.8 - 119.0,0.017,1
+Kurtosis,Very Severe,13.0 - 24.0,0.053,1
+Kurtosis,Very Severe,24.0 - 35.0,0.368,7
+Kurtosis,Very Severe,35.0 - 46.0,0.158,3
+Kurtosis,Very Severe,46.0 - 57.0,0.211,4
+Kurtosis,Very Severe,57.0 - 68.0,0.211,4
+Major axis length,Mild,8.0 - 32.6,0.068,19
+Major axis length,Mild,32.6 - 57.2,0.356,100
+Major axis length,Mild,57.2 - 81.8,0.206,58
+Major axis length,Mild,81.8 - 106.4,0.295,83
+Major axis length,Mild,106.4 - 131.0,0.075,21
+Major axis length,Minimal,13.0 - 33.8,0.075,4
+Major axis length,Minimal,33.8 - 54.6,0.472,25
+Major axis length,Minimal,54.6 - 75.4,0.057,3
+Major axis length,Minimal,75.4 - 96.2,0.208,11
+Major axis length,Minimal,96.2 - 117.0,0.189,10
+Major axis length,Moderate,8.0 - 33.6,0.098,34
+Major axis length,Moderate,33.6 - 59.2,0.408,141
+Major axis length,Moderate,59.2 - 84.8,0.197,68
+Major axis length,Moderate,84.8 - 110.4,0.257,89
+Major axis length,Moderate,110.4 - 136.0,0.040,14
+Major axis length,Moderate to Severe,3.0 - 26.4,0.065,10
+Major axis length,Moderate to Severe,26.4 - 49.8,0.381,59
+Major axis length,Moderate to Severe,49.8 - 73.2,0.200,31
+Major axis length,Moderate to Severe,73.2 - 96.6,0.200,31
+Major axis length,Moderate to Severe,96.6 - 120.0,0.155,24
+Major axis length,Severe,4.0 - 27.8,0.138,8
+Major axis length,Severe,27.8 - 51.6,0.448,26
+Major axis length,Severe,51.6 - 75.4,0.155,9
+Major axis length,Severe,75.4 - 99.2,0.138,8
+Major axis length,Severe,99.2 - 123.0,0.121,7
+Major axis length,Very Severe,6.0 - 29.8,0.105,2
+Major axis length,Very Severe,29.8 - 53.6,0.368,7
+Major axis length,Very Severe,53.6 - 77.4,0.158,3
+Major axis length,Very Severe,77.4 - 101.2,0.158,3
+Major axis length,Very Severe,101.2 - 125.0,0.211,4
+Mean,Mild,0.009 - 0.021,0.754,212
+Mean,Mild,0.021 - 0.033,0.231,65
+Mean,Mild,0.033 - 0.044,0.007,2
+Mean,Mild,0.044 - 0.056,0.004,1
+Mean,Mild,0.056 - 0.068,0.004,1
+Mean,Minimal,0.009 - 0.013,0.170,9
+Mean,Minimal,0.013 - 0.018,0.377,20
+Mean,Minimal,0.018 - 0.022,0.358,19
+Mean,Minimal,0.022 - 0.027,0.075,4
+Mean,Minimal,0.027 - 0.031,0.019,1
+Mean,Moderate,0.008 - 0.019,0.618,214
+Mean,Moderate,0.019 - 0.029,0.350,121
+Mean,Moderate,0.029 - 0.04,0.026,9
+Mean,Moderate,0.04 - 0.05,0.000,0
+Mean,Moderate,0.05 - 0.061,0.006,2
+Mean,Moderate to Severe,0.006 - 0.018,0.432,67
+Mean,Moderate to Severe,0.018 - 0.029,0.516,80
+Mean,Moderate to Severe,0.029 - 0.041,0.039,6
+Mean,Moderate to Severe,0.041 - 0.052,0.006,1
+Mean,Moderate to Severe,0.052 - 0.064,0.006,1
+Mean,Severe,0.009 - 0.014,0.276,16
+Mean,Severe,0.014 - 0.02,0.293,17
+Mean,Severe,0.02 - 0.025,0.310,18
+Mean,Severe,0.025 - 0.031,0.052,3
+Mean,Severe,0.031 - 0.036,0.069,4
+Mean,Very Severe,0.014 - 0.022,0.526,10
+Mean,Very Severe,0.022 - 0.03,0.316,6
+Mean,Very Severe,0.03 - 0.039,0.105,2
+Mean,Very Severe,0.039 - 0.047,0.000,0
+Mean,Very Severe,0.047 - 0.055,0.053,1
+Minor axis length,Mild,0.0 - 11.029,0.021,6
+Minor axis length,Mild,11.029 - 22.057,0.078,22
+Minor axis length,Mild,22.057 - 33.086,0.523,147
+Minor axis length,Mild,33.086 - 44.114,0.345,97
+Minor axis length,Mild,44.114 - 55.143,0.032,9
+Minor axis length,Minimal,8.0 - 15.2,0.038,2
+Minor axis length,Minimal,15.2 - 22.4,0.075,4
+Minor axis length,Minimal,22.4 - 29.6,0.208,11
+Minor axis length,Minimal,29.6 - 36.8,0.528,28
+Minor axis length,Minimal,36.8 - 44.0,0.151,8
+Minor axis length,Moderate,0.0 - 12.209,0.029,10
+Minor axis length,Moderate,12.209 - 24.417,0.139,48
+Minor axis length,Moderate,24.417 - 36.626,0.650,225
+Minor axis length,Moderate,36.626 - 48.834,0.168,58
+Minor axis length,Moderate,48.834 - 61.043,0.014,5
+Minor axis length,Moderate to Severe,0.0 - 10.166,0.013,2
+Minor axis length,Moderate to Severe,10.166 - 20.332,0.090,14
+Minor axis length,Moderate to Severe,20.332 - 30.498,0.290,45
+Minor axis length,Moderate to Severe,30.498 - 40.664,0.484,75
+Minor axis length,Moderate to Severe,40.664 - 50.83,0.123,19
+Minor axis length,Severe,0.0 - 10.406,0.052,3
+Minor axis length,Severe,10.406 - 20.812,0.138,8
+Minor axis length,Severe,20.812 - 31.217,0.293,17
+Minor axis length,Severe,31.217 - 41.623,0.448,26
+Minor axis length,Severe,41.623 - 52.029,0.069,4
+Minor axis length,Very Severe,0.0 - 10.814,0.105,2
+Minor axis length,Very Severe,10.814 - 21.627,0.105,2
+Minor axis length,Very Severe,21.627 - 32.441,0.316,6
+Minor axis length,Very Severe,32.441 - 43.254,0.263,5
+Minor axis length,Very Severe,43.254 - 54.068,0.211,4
+PA_ratio,Mild,0.049 - 0.222,0.619,174
+PA_ratio,Mild,0.222 - 0.396,0.356,100
+PA_ratio,Mild,0.396 - 0.569,0.014,4
+PA_ratio,Mild,0.569 - 0.743,0.007,2
+PA_ratio,Mild,0.743 - 0.916,0.004,1
+PA_ratio,Minimal,0.092 - 0.185,0.264,14
+PA_ratio,Minimal,0.185 - 0.278,0.585,31
+PA_ratio,Minimal,0.278 - 0.37,0.113,6
+PA_ratio,Minimal,0.37 - 0.463,0.000,0
+PA_ratio,Minimal,0.463 - 0.556,0.038,2
+PA_ratio,Moderate,0.066 - 0.201,0.454,157
+PA_ratio,Moderate,0.201 - 0.336,0.468,162
+PA_ratio,Moderate,0.336 - 0.472,0.043,15
+PA_ratio,Moderate,0.472 - 0.607,0.023,8
+PA_ratio,Moderate,0.607 - 0.742,0.012,4
+PA_ratio,Moderate to Severe,0.047 - 0.182,0.348,54
+PA_ratio,Moderate to Severe,0.182 - 0.317,0.510,79
+PA_ratio,Moderate to Severe,0.317 - 0.451,0.084,13
+PA_ratio,Moderate to Severe,0.451 - 0.586,0.032,5
+PA_ratio,Moderate to Severe,0.586 - 0.721,0.026,4
+PA_ratio,Severe,0.031 - 0.225,0.517,30
+PA_ratio,Severe,0.225 - 0.42,0.362,21
+PA_ratio,Severe,0.42 - 0.614,0.069,4
+PA_ratio,Severe,0.614 - 0.809,0.034,2
+PA_ratio,Severe,0.809 - 1.003,0.000,0
+PA_ratio,Very Severe,0.093 - 0.189,0.526,10
+PA_ratio,Very Severe,0.189 - 0.285,0.158,3
+PA_ratio,Very Severe,0.285 - 0.381,0.105,2
+PA_ratio,Very Severe,0.381 - 0.477,0.105,2
+PA_ratio,Very Severe,0.477 - 0.573,0.105,2
+Shannon_Entropy,Mild,0.004 - 0.012,0.149,42
+Shannon_Entropy,Mild,0.012 - 0.02,0.584,164
+Shannon_Entropy,Mild,0.02 - 0.027,0.214,60
+Shannon_Entropy,Mild,0.027 - 0.035,0.039,11
+Shannon_Entropy,Mild,0.035 - 0.043,0.014,4
+Shannon_Entropy,Minimal,0.007 - 0.015,0.302,16
+Shannon_Entropy,Minimal,0.015 - 0.023,0.415,22
+Shannon_Entropy,Minimal,0.023 - 0.031,0.208,11
+Shannon_Entropy,Minimal,0.031 - 0.039,0.057,3
+Shannon_Entropy,Minimal,0.039 - 0.047,0.019,1
+Shannon_Entropy,Moderate,0.005 - 0.023,0.853,295
+Shannon_Entropy,Moderate,0.023 - 0.042,0.124,43
+Shannon_Entropy,Moderate,0.042 - 0.06,0.014,5
+Shannon_Entropy,Moderate,0.06 - 0.079,0.003,1
+Shannon_Entropy,Moderate,0.079 - 0.097,0.006,2
+Shannon_Entropy,Moderate to Severe,0.006 - 0.021,0.787,122
+Shannon_Entropy,Moderate to Severe,0.021 - 0.037,0.168,26
+Shannon_Entropy,Moderate to Severe,0.037 - 0.052,0.039,6
+Shannon_Entropy,Moderate to Severe,0.052 - 0.068,0.000,0
+Shannon_Entropy,Moderate to Severe,0.068 - 0.083,0.006,1
+Shannon_Entropy,Severe,0.007 - 0.039,0.931,54
+Shannon_Entropy,Severe,0.039 - 0.071,0.052,3
+Shannon_Entropy,Severe,0.071 - 0.102,0.000,0
+Shannon_Entropy,Severe,0.102 - 0.134,0.000,0
+Shannon_Entropy,Severe,0.134 - 0.166,0.017,1
+Shannon_Entropy,Very Severe,0.007 - 0.018,0.368,7
+Shannon_Entropy,Very Severe,0.018 - 0.029,0.526,10
+Shannon_Entropy,Very Severe,0.029 - 0.041,0.053,1
+Shannon_Entropy,Very Severe,0.041 - 0.052,0.000,0
+Shannon_Entropy,Very Severe,0.052 - 0.063,0.053,1
+Skewness,Mild,3.0 - 4.6,0.007,2
+Skewness,Mild,4.6 - 6.2,0.064,18
+Skewness,Mild,6.2 - 7.8,0.594,167
+Skewness,Mild,7.8 - 9.4,0.292,82
+Skewness,Mild,9.4 - 11.0,0.043,12
+Skewness,Minimal,5.0 - 6.4,0.075,4
+Skewness,Minimal,6.4 - 7.8,0.491,26
+Skewness,Minimal,7.8 - 9.2,0.396,21
+Skewness,Minimal,9.2 - 10.6,0.019,1
+Skewness,Minimal,10.6 - 12.0,0.019,1
+Skewness,Moderate,3.0 - 4.8,0.009,3
+Skewness,Moderate,4.8 - 6.6,0.173,60
+Skewness,Moderate,6.6 - 8.4,0.613,212
+Skewness,Moderate,8.4 - 10.2,0.188,65
+Skewness,Moderate,10.2 - 12.0,0.017,6
+Skewness,Moderate to Severe,3.0 - 5.0,0.019,3
+Skewness,Moderate to Severe,5.0 - 7.0,0.374,58
+Skewness,Moderate to Severe,7.0 - 9.0,0.555,86
+Skewness,Moderate to Severe,9.0 - 11.0,0.045,7
+Skewness,Moderate to Severe,11.0 - 13.0,0.006,1
+Skewness,Severe,5.0 - 6.2,0.138,8
+Skewness,Severe,6.2 - 7.4,0.379,22
+Skewness,Severe,7.4 - 8.6,0.293,17
+Skewness,Severe,8.6 - 9.8,0.172,10
+Skewness,Severe,9.8 - 11.0,0.017,1
+Skewness,Very Severe,3.0 - 4.2,0.053,1
+Skewness,Very Severe,4.2 - 5.4,0.053,1
+Skewness,Very Severe,5.4 - 6.6,0.368,7
+Skewness,Very Severe,6.6 - 7.8,0.368,7
+Skewness,Very Severe,7.8 - 9.0,0.158,3
+Solidity,Mild,0.541 - 0.633,0.060,17
+Solidity,Mild,0.633 - 0.725,0.327,92
+Solidity,Mild,0.725 - 0.816,0.349,98
+Solidity,Mild,0.816 - 0.908,0.235,66
+Solidity,Mild,0.908 - 1.0,0.028,8
+Solidity,Minimal,0.506 - 0.582,0.038,2
+Solidity,Minimal,0.582 - 0.658,0.151,8
+Solidity,Minimal,0.658 - 0.735,0.189,10
+Solidity,Minimal,0.735 - 0.811,0.396,21
+Solidity,Minimal,0.811 - 0.887,0.226,12
+Solidity,Moderate,0.471 - 0.577,0.017,6
+Solidity,Moderate,0.577 - 0.683,0.165,57
+Solidity,Moderate,0.683 - 0.788,0.442,153
+Solidity,Moderate,0.788 - 0.894,0.329,114
+Solidity,Moderate,0.894 - 1.0,0.046,16
+Solidity,Moderate to Severe,0.561 - 0.649,0.135,21
+Solidity,Moderate to Severe,0.649 - 0.737,0.258,40
+Solidity,Moderate to Severe,0.737 - 0.824,0.329,51
+Solidity,Moderate to Severe,0.824 - 0.912,0.252,39
+Solidity,Moderate to Severe,0.912 - 1.0,0.026,4
+Solidity,Severe,0.564 - 0.651,0.086,5
+Solidity,Severe,0.651 - 0.738,0.293,17
+Solidity,Severe,0.738 - 0.826,0.310,18
+Solidity,Severe,0.826 - 0.913,0.224,13
+Solidity,Severe,0.913 - 1.0,0.086,5
+Solidity,Very Severe,0.604 - 0.683,0.158,3
+Solidity,Very Severe,0.683 - 0.762,0.421,8
+Solidity,Very Severe,0.762 - 0.842,0.211,4
+Solidity,Very Severe,0.842 - 0.921,0.158,3
+Solidity,Very Severe,0.921 - 1.0,0.053,1
+Standard Deviation,Mild,0.095 - 0.126,0.416,117
+Standard Deviation,Mild,0.126 - 0.157,0.541,152
+Standard Deviation,Mild,0.157 - 0.187,0.032,9
+Standard Deviation,Mild,0.187 - 0.218,0.007,2
+Standard Deviation,Mild,0.218 - 0.249,0.004,1
+Standard Deviation,Minimal,0.084 - 0.102,0.038,2
+Standard Deviation,Minimal,0.102 - 0.12,0.358,19
+Standard Deviation,Minimal,0.12 - 0.137,0.434,23
+Standard Deviation,Minimal,0.137 - 0.155,0.151,8
+Standard Deviation,Minimal,0.155 - 0.173,0.019,1
+Standard Deviation,Moderate,0.086 - 0.114,0.202,70
+Standard Deviation,Moderate,0.114 - 0.142,0.610,211
+Standard Deviation,Moderate,0.142 - 0.171,0.165,57
+Standard Deviation,Moderate,0.171 - 0.199,0.017,6
+Standard Deviation,Moderate,0.199 - 0.227,0.006,2
+Standard Deviation,Moderate to Severe,0.075 - 0.108,0.058,9
+Standard Deviation,Moderate to Severe,0.108 - 0.142,0.677,105
+Standard Deviation,Moderate to Severe,0.142 - 0.175,0.226,35
+Standard Deviation,Moderate to Severe,0.175 - 0.209,0.032,5
+Standard Deviation,Moderate to Severe,0.209 - 0.242,0.006,1
+Standard Deviation,Severe,0.087 - 0.106,0.138,8
+Standard Deviation,Severe,0.106 - 0.126,0.310,18
+Standard Deviation,Severe,0.126 - 0.145,0.259,15
+Standard Deviation,Severe,0.145 - 0.165,0.224,13
+Standard Deviation,Severe,0.165 - 0.184,0.069,4
+Standard Deviation,Very Severe,0.115 - 0.137,0.421,8
+Standard Deviation,Very Severe,0.137 - 0.159,0.368,7
+Standard Deviation,Very Severe,0.159 - 0.182,0.158,3
+Standard Deviation,Very Severe,0.182 - 0.204,0.000,0
+Standard Deviation,Very Severe,0.204 - 0.226,0.053,1
+brightness,Mild,0.009 - 0.021,0.754,212
+brightness,Mild,0.021 - 0.033,0.231,65
+brightness,Mild,0.033 - 0.044,0.007,2
+brightness,Mild,0.044 - 0.056,0.004,1
+brightness,Mild,0.056 - 0.068,0.004,1
+brightness,Minimal,0.009 - 0.013,0.170,9
+brightness,Minimal,0.013 - 0.018,0.377,20
+brightness,Minimal,0.018 - 0.022,0.358,19
+brightness,Minimal,0.022 - 0.027,0.075,4
+brightness,Minimal,0.027 - 0.031,0.019,1
+brightness,Moderate,0.008 - 0.019,0.618,214
+brightness,Moderate,0.019 - 0.029,0.350,121
+brightness,Moderate,0.029 - 0.04,0.026,9
+brightness,Moderate,0.04 - 0.05,0.000,0
+brightness,Moderate,0.05 - 0.061,0.006,2
+brightness,Moderate to Severe,0.006 - 0.018,0.432,67
+brightness,Moderate to Severe,0.018 - 0.029,0.516,80
+brightness,Moderate to Severe,0.029 - 0.041,0.039,6
+brightness,Moderate to Severe,0.041 - 0.052,0.006,1
+brightness,Moderate to Severe,0.052 - 0.064,0.006,1
+brightness,Severe,0.009 - 0.014,0.276,16
+brightness,Severe,0.014 - 0.02,0.293,17
+brightness,Severe,0.02 - 0.025,0.310,18
+brightness,Severe,0.025 - 0.031,0.052,3
+brightness,Severe,0.031 - 0.036,0.069,4
+brightness,Very Severe,0.014 - 0.022,0.526,10
+brightness,Very Severe,0.022 - 0.03,0.316,6
+brightness,Very Severe,0.03 - 0.039,0.105,2
+brightness,Very Severe,0.039 - 0.047,0.000,0
+brightness,Very Severe,0.047 - 0.055,0.053,1
+contrast,Mild,58.0 - 200.6,0.288,81
+contrast,Mild,200.6 - 343.2,0.488,137
+contrast,Mild,343.2 - 485.8,0.178,50
+contrast,Mild,485.8 - 628.4,0.032,9
+contrast,Mild,628.4 - 771.0,0.014,4
+contrast,Minimal,95.0 - 219.8,0.340,18
+contrast,Minimal,219.8 - 344.6,0.377,20
+contrast,Minimal,344.6 - 469.4,0.208,11
+contrast,Minimal,469.4 - 594.2,0.038,2
+contrast,Minimal,594.2 - 719.0,0.038,2
+contrast,Moderate,68.0 - 318.2,0.723,250
+contrast,Moderate,318.2 - 568.4,0.225,78
+contrast,Moderate,568.4 - 818.6,0.038,13
+contrast,Moderate,818.6 - 1068.8,0.006,2
+contrast,Moderate,1068.8 - 1319.0,0.009,3
+contrast,Moderate to Severe,84.0 - 381.0,0.774,120
+contrast,Moderate to Severe,381.0 - 678.0,0.181,28
+contrast,Moderate to Severe,678.0 - 975.0,0.032,5
+contrast,Moderate to Severe,975.0 - 1272.0,0.006,1
+contrast,Moderate to Severe,1272.0 - 1569.0,0.006,1
+contrast,Severe,92.0 - 215.0,0.345,20
+contrast,Severe,215.0 - 338.0,0.379,22
+contrast,Severe,338.0 - 461.0,0.190,11
+contrast,Severe,461.0 - 584.0,0.052,3
+contrast,Severe,584.0 - 707.0,0.034,2
+contrast,Very Severe,113.0 - 435.0,0.579,11
+contrast,Very Severe,435.0 - 757.0,0.368,7
+contrast,Very Severe,757.0 - 1079.0,0.000,0
+contrast,Very Severe,1079.0 - 1401.0,0.000,0
+contrast,Very Severe,1401.0 - 1723.0,0.053,1
+correlation,Mild,0.64 - 0.705,0.011,3
+correlation,Mild,0.705 - 0.77,0.032,9
+correlation,Mild,0.77 - 0.836,0.160,45
+correlation,Mild,0.836 - 0.901,0.488,137
+correlation,Mild,0.901 - 0.966,0.310,87
+correlation,Minimal,0.646 - 0.709,0.019,1
+correlation,Minimal,0.709 - 0.772,0.094,5
+correlation,Minimal,0.772 - 0.835,0.170,9
+correlation,Minimal,0.835 - 0.898,0.491,26
+correlation,Minimal,0.898 - 0.961,0.226,12
+correlation,Moderate,0.458 - 0.56,0.003,1
+correlation,Moderate,0.56 - 0.661,0.009,3
+correlation,Moderate,0.661 - 0.763,0.040,14
+correlation,Moderate,0.763 - 0.864,0.344,119
+correlation,Moderate,0.864 - 0.966,0.604,209
+correlation,Moderate to Severe,0.176 - 0.333,0.006,1
+correlation,Moderate to Severe,0.333 - 0.49,0.000,0
+correlation,Moderate to Severe,0.49 - 0.647,0.006,1
+correlation,Moderate to Severe,0.647 - 0.804,0.135,21
+correlation,Moderate to Severe,0.804 - 0.961,0.845,131
+correlation,Severe,0.542 - 0.625,0.017,1
+correlation,Severe,0.625 - 0.708,0.017,1
+correlation,Severe,0.708 - 0.792,0.086,5
+correlation,Severe,0.792 - 0.875,0.345,20
+correlation,Severe,0.875 - 0.958,0.534,31
+correlation,Very Severe,0.421 - 0.527,0.053,1
+correlation,Very Severe,0.527 - 0.633,0.000,0
+correlation,Very Severe,0.633 - 0.74,0.000,0
+correlation,Very Severe,0.74 - 0.846,0.105,2
+correlation,Very Severe,0.846 - 0.952,0.842,16
+dissimilarity,Mild,0.263 - 0.899,0.189,53
+dissimilarity,Mild,0.899 - 1.535,0.512,144
+dissimilarity,Mild,1.535 - 2.17,0.231,65
+dissimilarity,Mild,2.17 - 2.806,0.039,11
+dissimilarity,Mild,2.806 - 3.442,0.028,8
+dissimilarity,Minimal,0.44 - 1.049,0.302,16
+dissimilarity,Minimal,1.049 - 1.658,0.377,20
+dissimilarity,Minimal,1.658 - 2.266,0.208,11
+dissimilarity,Minimal,2.266 - 2.875,0.075,4
+dissimilarity,Minimal,2.875 - 3.484,0.038,2
+dissimilarity,Moderate,0.305 - 1.774,0.798,276
+dissimilarity,Moderate,1.774 - 3.242,0.176,61
+dissimilarity,Moderate,3.242 - 4.711,0.012,4
+dissimilarity,Moderate,4.711 - 6.179,0.012,4
+dissimilarity,Moderate,6.179 - 7.648,0.003,1
+dissimilarity,Moderate to Severe,0.366 - 1.844,0.768,119
+dissimilarity,Moderate to Severe,1.844 - 3.322,0.187,29
+dissimilarity,Moderate to Severe,3.322 - 4.801,0.032,5
+dissimilarity,Moderate to Severe,4.801 - 6.279,0.006,1
+dissimilarity,Moderate to Severe,6.279 - 7.757,0.006,1
+dissimilarity,Severe,0.431 - 1.49,0.638,37
+dissimilarity,Severe,1.49 - 2.549,0.293,17
+dissimilarity,Severe,2.549 - 3.607,0.034,2
+dissimilarity,Severe,3.607 - 4.666,0.017,1
+dissimilarity,Severe,4.666 - 5.725,0.017,1
+dissimilarity,Very Severe,0.5 - 1.963,0.579,11
+dissimilarity,Very Severe,1.963 - 3.426,0.368,7
+dissimilarity,Very Severe,3.426 - 4.889,0.000,0
+dissimilarity,Very Severe,4.889 - 6.352,0.000,0
+dissimilarity,Very Severe,6.352 - 7.815,0.053,1
+energy,Mild,0.926 - 0.939,0.004,1
+energy,Mild,0.939 - 0.952,0.004,1
+energy,Mild,0.952 - 0.964,0.014,4
+energy,Mild,0.964 - 0.977,0.363,102
+energy,Mild,0.977 - 0.99,0.616,173
+energy,Minimal,0.964 - 0.968,0.057,3
+energy,Minimal,0.968 - 0.972,0.113,6
+energy,Minimal,0.972 - 0.977,0.151,8
+energy,Minimal,0.977 - 0.981,0.302,16
+energy,Minimal,0.981 - 0.985,0.377,20
+energy,Moderate,0.926 - 0.939,0.009,3
+energy,Moderate,0.939 - 0.952,0.006,2
+energy,Moderate,0.952 - 0.965,0.026,9
+energy,Moderate,0.965 - 0.978,0.347,120
+energy,Moderate,0.978 - 0.991,0.613,212
+energy,Moderate to Severe,0.929 - 0.941,0.013,2
+energy,Moderate to Severe,0.941 - 0.952,0.000,0
+energy,Moderate to Severe,0.952 - 0.964,0.058,9
+energy,Moderate to Severe,0.964 - 0.975,0.232,36
+energy,Moderate to Severe,0.975 - 0.987,0.697,108
+energy,Severe,0.893 - 0.912,0.017,1
+energy,Severe,0.912 - 0.931,0.000,0
+energy,Severe,0.931 - 0.949,0.000,0
+energy,Severe,0.949 - 0.968,0.103,6
+energy,Severe,0.968 - 0.987,0.879,51
+energy,Very Severe,0.939 - 0.947,0.053,1
+energy,Very Severe,0.947 - 0.956,0.000,0
+energy,Very Severe,0.956 - 0.964,0.158,3
+energy,Very Severe,0.964 - 0.973,0.263,5
+energy,Very Severe,0.973 - 0.981,0.526,10
+gabor_energy,Mild,9.0 - 23.2,0.957,269
+gabor_energy,Mild,23.2 - 37.4,0.032,9
+gabor_energy,Mild,37.4 - 51.6,0.004,1
+gabor_energy,Mild,51.6 - 65.8,0.004,1
+gabor_energy,Mild,65.8 - 80.0,0.004,1
+gabor_energy,Minimal,9.0 - 12.2,0.038,2
+gabor_energy,Minimal,12.2 - 15.4,0.321,17
+gabor_energy,Minimal,15.4 - 18.6,0.434,23
+gabor_energy,Minimal,18.6 - 21.8,0.170,9
+gabor_energy,Minimal,21.8 - 25.0,0.038,2
+gabor_energy,Moderate,9.0 - 21.2,0.867,300
+gabor_energy,Moderate,21.2 - 33.4,0.121,42
+gabor_energy,Moderate,33.4 - 45.6,0.006,2
+gabor_energy,Moderate,45.6 - 57.8,0.000,0
+gabor_energy,Moderate,57.8 - 70.0,0.006,2
+gabor_energy,Moderate to Severe,10.0 - 40.8,0.981,152
+gabor_energy,Moderate to Severe,40.8 - 71.6,0.006,1
+gabor_energy,Moderate to Severe,71.6 - 102.4,0.006,1
+gabor_energy,Moderate to Severe,102.4 - 133.2,0.000,0
+gabor_energy,Moderate to Severe,133.2 - 164.0,0.006,1
+gabor_energy,Severe,9.0 - 16.6,0.362,21
+gabor_energy,Severe,16.6 - 24.2,0.466,27
+gabor_energy,Severe,24.2 - 31.8,0.103,6
+gabor_energy,Severe,31.8 - 39.4,0.052,3
+gabor_energy,Severe,39.4 - 47.0,0.017,1
+gabor_energy,Very Severe,15.0 - 24.2,0.579,11
+gabor_energy,Very Severe,24.2 - 33.4,0.316,6
+gabor_energy,Very Severe,33.4 - 42.6,0.053,1
+gabor_energy,Very Severe,42.6 - 51.8,0.000,0
+gabor_energy,Very Severe,51.8 - 61.0,0.053,1
+gabor_entropy,Mild,370.0 - 868.0,0.790,222
+gabor_entropy,Mild,868.0 - 1366.0,0.199,56
+gabor_entropy,Mild,1366.0 - 1864.0,0.004,1
+gabor_entropy,Mild,1864.0 - 2362.0,0.004,1
+gabor_entropy,Mild,2362.0 - 2860.0,0.004,1
+gabor_entropy,Minimal,517.0 - 641.0,0.283,15
+gabor_entropy,Minimal,641.0 - 765.0,0.321,17
+gabor_entropy,Minimal,765.0 - 889.0,0.264,14
+gabor_entropy,Minimal,889.0 - 1013.0,0.075,4
+gabor_entropy,Minimal,1013.0 - 1137.0,0.057,3
+gabor_entropy,Moderate,371.0 - 841.2,0.757,262
+gabor_entropy,Moderate,841.2 - 1311.4,0.211,73
+gabor_entropy,Moderate,1311.4 - 1781.6,0.023,8
+gabor_entropy,Moderate,1781.6 - 2251.8,0.003,1
+gabor_entropy,Moderate,2251.8 - 2722.0,0.006,2
+gabor_entropy,Moderate to Severe,468.0 - 931.4,0.794,123
+gabor_entropy,Moderate to Severe,931.4 - 1394.8,0.155,24
+gabor_entropy,Moderate to Severe,1394.8 - 1858.2,0.039,6
+gabor_entropy,Moderate to Severe,1858.2 - 2321.6,0.000,0
+gabor_entropy,Moderate to Severe,2321.6 - 2785.0,0.013,2
+gabor_entropy,Severe,478.0 - 724.2,0.431,25
+gabor_entropy,Severe,724.2 - 970.4,0.362,21
+gabor_entropy,Severe,970.4 - 1216.6,0.103,6
+gabor_entropy,Severe,1216.6 - 1462.8,0.069,4
+gabor_entropy,Severe,1462.8 - 1709.0,0.034,2
+gabor_entropy,Very Severe,629.0 - 955.4,0.474,9
+gabor_entropy,Very Severe,955.4 - 1281.8,0.316,6
+gabor_entropy,Very Severe,1281.8 - 1608.2,0.105,2
+gabor_entropy,Very Severe,1608.2 - 1934.6,0.053,1
+gabor_entropy,Very Severe,1934.6 - 2261.0,0.053,1
+homogeneity,Mild,0.978 - 0.982,0.025,7
+homogeneity,Mild,0.982 - 0.986,0.057,16
+homogeneity,Mild,0.986 - 0.991,0.228,64
+homogeneity,Mild,0.991 - 0.995,0.488,137
+homogeneity,Mild,0.995 - 0.999,0.203,57
+homogeneity,Minimal,0.973 - 0.978,0.019,1
+homogeneity,Minimal,0.978 - 0.983,0.057,3
+homogeneity,Minimal,0.983 - 0.987,0.113,6
+homogeneity,Minimal,0.987 - 0.992,0.396,21
+homogeneity,Minimal,0.992 - 0.997,0.415,22
+homogeneity,Moderate,0.941 - 0.952,0.003,1
+homogeneity,Moderate,0.952 - 0.964,0.006,2
+homogeneity,Moderate,0.964 - 0.975,0.012,4
+homogeneity,Moderate,0.975 - 0.987,0.092,32
+homogeneity,Moderate,0.987 - 0.998,0.887,307
+homogeneity,Moderate to Severe,0.953 - 0.962,0.006,1
+homogeneity,Moderate to Severe,0.962 - 0.971,0.006,1
+homogeneity,Moderate to Severe,0.971 - 0.98,0.013,2
+homogeneity,Moderate to Severe,0.98 - 0.989,0.181,28
+homogeneity,Moderate to Severe,0.989 - 0.998,0.794,123
+homogeneity,Severe,0.899 - 0.919,0.017,1
+homogeneity,Severe,0.919 - 0.938,0.000,0
+homogeneity,Severe,0.938 - 0.958,0.000,0
+homogeneity,Severe,0.958 - 0.977,0.034,2
+homogeneity,Severe,0.977 - 0.997,0.948,55
+homogeneity,Very Severe,0.962 - 0.969,0.053,1
+homogeneity,Very Severe,0.969 - 0.976,0.000,0
+homogeneity,Very Severe,0.976 - 0.984,0.053,1
+homogeneity,Very Severe,0.984 - 0.991,0.526,10
+homogeneity,Very Severe,0.991 - 0.998,0.368,7
+lbp_energy,Mild,0.957 - 0.965,0.004,1
+lbp_energy,Mild,0.965 - 0.973,0.032,9
+lbp_energy,Mild,0.973 - 0.98,0.171,48
+lbp_energy,Mild,0.98 - 0.988,0.609,171
+lbp_energy,Mild,0.988 - 0.996,0.185,52
+lbp_energy,Minimal,0.962 - 0.968,0.038,2
+lbp_energy,Minimal,0.968 - 0.974,0.038,2
+lbp_energy,Minimal,0.974 - 0.981,0.264,14
+lbp_energy,Minimal,0.981 - 0.987,0.358,19
+lbp_energy,Minimal,0.987 - 0.993,0.302,16
+lbp_energy,Moderate,0.927 - 0.94,0.009,3
+lbp_energy,Moderate,0.94 - 0.954,0.003,1
+lbp_energy,Moderate,0.954 - 0.967,0.020,7
+lbp_energy,Moderate,0.967 - 0.981,0.171,59
+lbp_energy,Moderate,0.981 - 0.994,0.798,276
+lbp_energy,Moderate to Severe,0.932 - 0.944,0.006,1
+lbp_energy,Moderate to Severe,0.944 - 0.957,0.006,1
+lbp_energy,Moderate to Severe,0.957 - 0.969,0.058,9
+lbp_energy,Moderate to Severe,0.969 - 0.982,0.226,35
+lbp_energy,Moderate to Severe,0.982 - 0.994,0.703,109
+lbp_energy,Severe,0.882 - 0.904,0.017,1
+lbp_energy,Severe,0.904 - 0.926,0.000,0
+lbp_energy,Severe,0.926 - 0.949,0.000,0
+lbp_energy,Severe,0.949 - 0.971,0.069,4
+lbp_energy,Severe,0.971 - 0.993,0.914,53
+lbp_energy,Very Severe,0.954 - 0.962,0.053,1
+lbp_energy,Very Severe,0.962 - 0.969,0.053,1
+lbp_energy,Very Severe,0.969 - 0.977,0.158,3
+lbp_energy,Very Severe,0.977 - 0.984,0.421,8
+lbp_energy,Very Severe,0.984 - 0.992,0.316,6
+lbp_entropy,Mild,0.027 - 0.063,0.135,38
+lbp_entropy,Mild,0.063 - 0.099,0.644,181
+lbp_entropy,Mild,0.099 - 0.135,0.192,54
+lbp_entropy,Mild,0.135 - 0.171,0.025,7
+lbp_entropy,Mild,0.171 - 0.207,0.004,1
+lbp_entropy,Minimal,0.043 - 0.067,0.208,11
+lbp_entropy,Minimal,0.067 - 0.091,0.396,21
+lbp_entropy,Minimal,0.091 - 0.115,0.226,12
+lbp_entropy,Minimal,0.115 - 0.139,0.113,6
+lbp_entropy,Minimal,0.139 - 0.163,0.038,2
+lbp_entropy,Moderate,0.035 - 0.086,0.595,206
+lbp_entropy,Moderate,0.086 - 0.137,0.347,120
+lbp_entropy,Moderate,0.137 - 0.188,0.043,15
+lbp_entropy,Moderate,0.188 - 0.239,0.006,2
+lbp_entropy,Moderate,0.239 - 0.29,0.009,3
+lbp_entropy,Moderate to Severe,0.038 - 0.088,0.561,87
+lbp_entropy,Moderate to Severe,0.088 - 0.138,0.361,56
+lbp_entropy,Moderate to Severe,0.138 - 0.189,0.065,10
+lbp_entropy,Moderate to Severe,0.189 - 0.239,0.006,1
+lbp_entropy,Moderate to Severe,0.239 - 0.289,0.006,1
+lbp_entropy,Severe,0.043 - 0.105,0.759,44
+lbp_entropy,Severe,0.105 - 0.167,0.190,11
+lbp_entropy,Severe,0.167 - 0.228,0.034,2
+lbp_entropy,Severe,0.228 - 0.29,0.000,0
+lbp_entropy,Severe,0.29 - 0.352,0.017,1
+lbp_entropy,Very Severe,0.048 - 0.076,0.158,3
+lbp_entropy,Very Severe,0.076 - 0.104,0.263,5
+lbp_entropy,Very Severe,0.104 - 0.132,0.421,8
+lbp_entropy,Very Severe,0.132 - 0.16,0.053,1
+lbp_entropy,Very Severe,0.16 - 0.188,0.105,2
+DATSCAN_CAUDATE_R,Mild,0.31 - 0.96,0.025,7
+DATSCAN_CAUDATE_R,Mild,0.96 - 1.61,0.295,83
+DATSCAN_CAUDATE_R,Mild,1.61 - 2.26,0.466,131
+DATSCAN_CAUDATE_R,Mild,2.26 - 2.91,0.174,49
+DATSCAN_CAUDATE_R,Mild,2.91 - 3.56,0.039,11
+DATSCAN_CAUDATE_R,Minimal,0.69 - 1.314,0.151,8
+DATSCAN_CAUDATE_R,Minimal,1.314 - 1.938,0.358,19
+DATSCAN_CAUDATE_R,Minimal,1.938 - 2.562,0.340,18
+DATSCAN_CAUDATE_R,Minimal,2.562 - 3.186,0.075,4
+DATSCAN_CAUDATE_R,Minimal,3.186 - 3.81,0.075,4
+DATSCAN_CAUDATE_R,Moderate,0.25 - 0.88,0.032,11
+DATSCAN_CAUDATE_R,Moderate,0.88 - 1.51,0.315,109
+DATSCAN_CAUDATE_R,Moderate,1.51 - 2.14,0.425,147
+DATSCAN_CAUDATE_R,Moderate,2.14 - 2.77,0.168,58
+DATSCAN_CAUDATE_R,Moderate,2.77 - 3.4,0.061,21
+DATSCAN_CAUDATE_R,Moderate to Severe,0.4 - 0.898,0.116,18
+DATSCAN_CAUDATE_R,Moderate to Severe,0.898 - 1.396,0.258,40
+DATSCAN_CAUDATE_R,Moderate to Severe,1.396 - 1.894,0.374,58
+DATSCAN_CAUDATE_R,Moderate to Severe,1.894 - 2.392,0.194,30
+DATSCAN_CAUDATE_R,Moderate to Severe,2.392 - 2.89,0.058,9
+DATSCAN_CAUDATE_R,Severe,0.55 - 1.002,0.190,11
+DATSCAN_CAUDATE_R,Severe,1.002 - 1.454,0.345,20
+DATSCAN_CAUDATE_R,Severe,1.454 - 1.906,0.293,17
+DATSCAN_CAUDATE_R,Severe,1.906 - 2.358,0.103,6
+DATSCAN_CAUDATE_R,Severe,2.358 - 2.81,0.052,3
+DATSCAN_CAUDATE_R,Very Severe,0.21 - 0.692,0.263,5
+DATSCAN_CAUDATE_R,Very Severe,0.692 - 1.174,0.158,3
+DATSCAN_CAUDATE_R,Very Severe,1.174 - 1.656,0.316,6
+DATSCAN_CAUDATE_R,Very Severe,1.656 - 2.138,0.158,3
+DATSCAN_CAUDATE_R,Very Severe,2.138 - 2.62,0.105,2
+DATSCAN_CAUDATE_L,Mild,0.26 - 0.892,0.025,7
+DATSCAN_CAUDATE_L,Mild,0.892 - 1.524,0.246,69
+DATSCAN_CAUDATE_L,Mild,1.524 - 2.156,0.423,119
+DATSCAN_CAUDATE_L,Mild,2.156 - 2.788,0.246,69
+DATSCAN_CAUDATE_L,Mild,2.788 - 3.42,0.060,17
+DATSCAN_CAUDATE_L,Minimal,0.64 - 1.228,0.113,6
+DATSCAN_CAUDATE_L,Minimal,1.228 - 1.816,0.377,20
+DATSCAN_CAUDATE_L,Minimal,1.816 - 2.404,0.321,17
+DATSCAN_CAUDATE_L,Minimal,2.404 - 2.992,0.113,6
+DATSCAN_CAUDATE_L,Minimal,2.992 - 3.58,0.075,4
+DATSCAN_CAUDATE_L,Moderate,0.2 - 0.91,0.038,13
+DATSCAN_CAUDATE_L,Moderate,0.91 - 1.62,0.373,129
+DATSCAN_CAUDATE_L,Moderate,1.62 - 2.33,0.468,162
+DATSCAN_CAUDATE_L,Moderate,2.33 - 3.04,0.098,34
+DATSCAN_CAUDATE_L,Moderate,3.04 - 3.75,0.023,8
+DATSCAN_CAUDATE_L,Moderate to Severe,0.2 - 0.68,0.052,8
+DATSCAN_CAUDATE_L,Moderate to Severe,0.68 - 1.16,0.200,31
+DATSCAN_CAUDATE_L,Moderate to Severe,1.16 - 1.64,0.323,50
+DATSCAN_CAUDATE_L,Moderate to Severe,1.64 - 2.12,0.290,45
+DATSCAN_CAUDATE_L,Moderate to Severe,2.12 - 2.6,0.135,21
+DATSCAN_CAUDATE_L,Severe,0.29 - 0.776,0.138,8
+DATSCAN_CAUDATE_L,Severe,0.776 - 1.262,0.190,11
+DATSCAN_CAUDATE_L,Severe,1.262 - 1.748,0.328,19
+DATSCAN_CAUDATE_L,Severe,1.748 - 2.234,0.207,12
+DATSCAN_CAUDATE_L,Severe,2.234 - 2.72,0.138,8
+DATSCAN_CAUDATE_L,Very Severe,0.22 - 0.584,0.158,3
+DATSCAN_CAUDATE_L,Very Severe,0.584 - 0.948,0.105,2
+DATSCAN_CAUDATE_L,Very Severe,0.948 - 1.312,0.316,6
+DATSCAN_CAUDATE_L,Very Severe,1.312 - 1.676,0.316,6
+DATSCAN_CAUDATE_L,Very Severe,1.676 - 2.04,0.105,2
+DATSCAN_PUTAMEN_R,Mild,0.03 - 0.402,0.064,18
+DATSCAN_PUTAMEN_R,Mild,0.402 - 0.774,0.559,157
+DATSCAN_PUTAMEN_R,Mild,0.774 - 1.146,0.274,77
+DATSCAN_PUTAMEN_R,Mild,1.146 - 1.518,0.057,16
+DATSCAN_PUTAMEN_R,Mild,1.518 - 1.89,0.046,13
+DATSCAN_PUTAMEN_R,Minimal,0.25 - 0.6,0.189,10
+DATSCAN_PUTAMEN_R,Minimal,0.6 - 0.95,0.434,23
+DATSCAN_PUTAMEN_R,Minimal,0.95 - 1.3,0.226,12
+DATSCAN_PUTAMEN_R,Minimal,1.3 - 1.65,0.113,6
+DATSCAN_PUTAMEN_R,Minimal,1.65 - 2.0,0.038,2
+DATSCAN_PUTAMEN_R,Moderate,0.07 - 0.498,0.280,97
+DATSCAN_PUTAMEN_R,Moderate,0.498 - 0.926,0.532,184
+DATSCAN_PUTAMEN_R,Moderate,0.926 - 1.354,0.165,57
+DATSCAN_PUTAMEN_R,Moderate,1.354 - 1.782,0.017,6
+DATSCAN_PUTAMEN_R,Moderate,1.782 - 2.21,0.006,2
+DATSCAN_PUTAMEN_R,Moderate to Severe,0.15 - 0.452,0.329,51
+DATSCAN_PUTAMEN_R,Moderate to Severe,0.452 - 0.754,0.400,62
+DATSCAN_PUTAMEN_R,Moderate to Severe,0.754 - 1.056,0.194,30
+DATSCAN_PUTAMEN_R,Moderate to Severe,1.056 - 1.358,0.045,7
+DATSCAN_PUTAMEN_R,Moderate to Severe,1.358 - 1.66,0.032,5
+DATSCAN_PUTAMEN_R,Severe,0.11 - 0.398,0.259,15
+DATSCAN_PUTAMEN_R,Severe,0.398 - 0.686,0.500,29
+DATSCAN_PUTAMEN_R,Severe,0.686 - 0.974,0.224,13
+DATSCAN_PUTAMEN_R,Severe,0.974 - 1.262,0.000,0
+DATSCAN_PUTAMEN_R,Severe,1.262 - 1.55,0.017,1
+DATSCAN_PUTAMEN_R,Very Severe,0.14 - 0.39,0.263,5
+DATSCAN_PUTAMEN_R,Very Severe,0.39 - 0.64,0.421,8
+DATSCAN_PUTAMEN_R,Very Severe,0.64 - 0.89,0.105,2
+DATSCAN_PUTAMEN_R,Very Severe,0.89 - 1.14,0.158,3
+DATSCAN_PUTAMEN_R,Very Severe,1.14 - 1.39,0.053,1
+DATSCAN_PUTAMEN_L,Mild,0.07 - 0.456,0.125,35
+DATSCAN_PUTAMEN_L,Mild,0.456 - 0.842,0.541,152
+DATSCAN_PUTAMEN_L,Mild,0.842 - 1.228,0.260,73
+DATSCAN_PUTAMEN_L,Mild,1.228 - 1.614,0.064,18
+DATSCAN_PUTAMEN_L,Mild,1.614 - 2.0,0.011,3
+DATSCAN_PUTAMEN_L,Minimal,0.25 - 0.478,0.113,6
+DATSCAN_PUTAMEN_L,Minimal,0.478 - 0.706,0.377,20
+DATSCAN_PUTAMEN_L,Minimal,0.706 - 0.934,0.264,14
+DATSCAN_PUTAMEN_L,Minimal,0.934 - 1.162,0.132,7
+DATSCAN_PUTAMEN_L,Minimal,1.162 - 1.39,0.113,6
+DATSCAN_PUTAMEN_L,Moderate,0.05 - 0.414,0.156,54
+DATSCAN_PUTAMEN_L,Moderate,0.414 - 0.778,0.546,189
+DATSCAN_PUTAMEN_L,Moderate,0.778 - 1.142,0.266,92
+DATSCAN_PUTAMEN_L,Moderate,1.142 - 1.506,0.023,8
+DATSCAN_PUTAMEN_L,Moderate,1.506 - 1.87,0.006,2
+DATSCAN_PUTAMEN_L,Moderate to Severe,0.07 - 0.388,0.194,30
+DATSCAN_PUTAMEN_L,Moderate to Severe,0.388 - 0.706,0.568,88
+DATSCAN_PUTAMEN_L,Moderate to Severe,0.706 - 1.024,0.194,30
+DATSCAN_PUTAMEN_L,Moderate to Severe,1.024 - 1.342,0.032,5
+DATSCAN_PUTAMEN_L,Moderate to Severe,1.342 - 1.66,0.013,2
+DATSCAN_PUTAMEN_L,Severe,0.1 - 0.346,0.207,12
+DATSCAN_PUTAMEN_L,Severe,0.346 - 0.592,0.466,27
+DATSCAN_PUTAMEN_L,Severe,0.592 - 0.838,0.207,12
+DATSCAN_PUTAMEN_L,Severe,0.838 - 1.084,0.103,6
+DATSCAN_PUTAMEN_L,Severe,1.084 - 1.33,0.017,1
+DATSCAN_PUTAMEN_L,Very Severe,0.06 - 0.202,0.105,2
+DATSCAN_PUTAMEN_L,Very Severe,0.202 - 0.344,0.158,3
+DATSCAN_PUTAMEN_L,Very Severe,0.344 - 0.486,0.316,6
+DATSCAN_PUTAMEN_L,Very Severe,0.486 - 0.628,0.263,5
+DATSCAN_PUTAMEN_L,Very Severe,0.628 - 0.77,0.158,3
+DATSCAN_PUTAMEN_R_ANT,Mild,0.15 - 0.672,0.043,12
+DATSCAN_PUTAMEN_R_ANT,Mild,0.672 - 1.194,0.466,131
+DATSCAN_PUTAMEN_R_ANT,Mild,1.194 - 1.716,0.370,104
+DATSCAN_PUTAMEN_R_ANT,Mild,1.716 - 2.238,0.096,27
+DATSCAN_PUTAMEN_R_ANT,Mild,2.238 - 2.76,0.025,7
+DATSCAN_PUTAMEN_R_ANT,Minimal,0.42 - 0.906,0.170,9
+DATSCAN_PUTAMEN_R_ANT,Minimal,0.906 - 1.392,0.396,21
+DATSCAN_PUTAMEN_R_ANT,Minimal,1.392 - 1.878,0.283,15
+DATSCAN_PUTAMEN_R_ANT,Minimal,1.878 - 2.364,0.075,4
+DATSCAN_PUTAMEN_R_ANT,Minimal,2.364 - 2.85,0.075,4
+DATSCAN_PUTAMEN_R_ANT,Moderate,0.17 - 0.7,0.118,41
+DATSCAN_PUTAMEN_R_ANT,Moderate,0.7 - 1.23,0.503,174
+DATSCAN_PUTAMEN_R_ANT,Moderate,1.23 - 1.76,0.289,100
+DATSCAN_PUTAMEN_R_ANT,Moderate,1.76 - 2.29,0.081,28
+DATSCAN_PUTAMEN_R_ANT,Moderate,2.29 - 2.82,0.009,3
+DATSCAN_PUTAMEN_R_ANT,Moderate to Severe,0.26 - 0.696,0.226,35
+DATSCAN_PUTAMEN_R_ANT,Moderate to Severe,0.696 - 1.132,0.471,73
+DATSCAN_PUTAMEN_R_ANT,Moderate to Severe,1.132 - 1.568,0.200,31
+DATSCAN_PUTAMEN_R_ANT,Moderate to Severe,1.568 - 2.004,0.090,14
+DATSCAN_PUTAMEN_R_ANT,Moderate to Severe,2.004 - 2.44,0.006,1
+DATSCAN_PUTAMEN_R_ANT,Severe,0.21 - 0.594,0.155,9
+DATSCAN_PUTAMEN_R_ANT,Severe,0.594 - 0.978,0.500,29
+DATSCAN_PUTAMEN_R_ANT,Severe,0.978 - 1.362,0.259,15
+DATSCAN_PUTAMEN_R_ANT,Severe,1.362 - 1.746,0.069,4
+DATSCAN_PUTAMEN_R_ANT,Severe,1.746 - 2.13,0.017,1
+DATSCAN_PUTAMEN_R_ANT,Very Severe,0.19 - 0.564,0.316,6
+DATSCAN_PUTAMEN_R_ANT,Very Severe,0.564 - 0.938,0.263,5
+DATSCAN_PUTAMEN_R_ANT,Very Severe,0.938 - 1.312,0.211,4
+DATSCAN_PUTAMEN_R_ANT,Very Severe,1.312 - 1.686,0.158,3
+DATSCAN_PUTAMEN_R_ANT,Very Severe,1.686 - 2.06,0.053,1
+DATSCAN_PUTAMEN_L_ANT,Mild,0.11 - 0.572,0.043,12
+DATSCAN_PUTAMEN_L_ANT,Mild,0.572 - 1.034,0.342,96
+DATSCAN_PUTAMEN_L_ANT,Mild,1.034 - 1.496,0.402,113
+DATSCAN_PUTAMEN_L_ANT,Mild,1.496 - 1.958,0.164,46
+DATSCAN_PUTAMEN_L_ANT,Mild,1.958 - 2.42,0.050,14
+DATSCAN_PUTAMEN_L_ANT,Minimal,0.49 - 0.848,0.170,9
+DATSCAN_PUTAMEN_L_ANT,Minimal,0.848 - 1.206,0.377,20
+DATSCAN_PUTAMEN_L_ANT,Minimal,1.206 - 1.564,0.226,12
+DATSCAN_PUTAMEN_L_ANT,Minimal,1.564 - 1.922,0.189,10
+DATSCAN_PUTAMEN_L_ANT,Minimal,1.922 - 2.28,0.038,2
+DATSCAN_PUTAMEN_L_ANT,Moderate,0.21 - 0.736,0.159,55
+DATSCAN_PUTAMEN_L_ANT,Moderate,0.736 - 1.262,0.552,191
+DATSCAN_PUTAMEN_L_ANT,Moderate,1.262 - 1.788,0.251,87
+DATSCAN_PUTAMEN_L_ANT,Moderate,1.788 - 2.314,0.026,9
+DATSCAN_PUTAMEN_L_ANT,Moderate,2.314 - 2.84,0.012,4
+DATSCAN_PUTAMEN_L_ANT,Moderate to Severe,0.09 - 0.474,0.045,7
+DATSCAN_PUTAMEN_L_ANT,Moderate to Severe,0.474 - 0.858,0.394,61
+DATSCAN_PUTAMEN_L_ANT,Moderate to Severe,0.858 - 1.242,0.413,64
+DATSCAN_PUTAMEN_L_ANT,Moderate to Severe,1.242 - 1.626,0.116,18
+DATSCAN_PUTAMEN_L_ANT,Moderate to Severe,1.626 - 2.01,0.032,5
+DATSCAN_PUTAMEN_L_ANT,Severe,0.21 - 0.522,0.172,10
+DATSCAN_PUTAMEN_L_ANT,Severe,0.522 - 0.834,0.276,16
+DATSCAN_PUTAMEN_L_ANT,Severe,0.834 - 1.146,0.328,19
+DATSCAN_PUTAMEN_L_ANT,Severe,1.146 - 1.458,0.103,6
+DATSCAN_PUTAMEN_L_ANT,Severe,1.458 - 1.77,0.121,7
+DATSCAN_PUTAMEN_L_ANT,Very Severe,0.34 - 0.518,0.263,5
+DATSCAN_PUTAMEN_L_ANT,Very Severe,0.518 - 0.696,0.211,4
+DATSCAN_PUTAMEN_L_ANT,Very Severe,0.696 - 0.874,0.211,4
+DATSCAN_PUTAMEN_L_ANT,Very Severe,0.874 - 1.052,0.158,3
+DATSCAN_PUTAMEN_L_ANT,Very Severe,1.052 - 1.23,0.158,3
