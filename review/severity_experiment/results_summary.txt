@@ -1,0 +1,55 @@
+============================================================
+PPMI PARKINSON'S DISEASE PREDICTION RESULTS
+============================================================
+
+SEVERITY MODEL
+------------------------------------------------------------
+Accuracy: 86.89%
+AUC: 0.9821
+
+Classification Report:
+                    precision    recall  f1-score   support
+
+              Mild       0.84      1.00      0.91        56
+           Minimal       1.00      0.73      0.84        11
+          Moderate       0.94      0.88      0.91        69
+Moderate to Severe       0.96      0.81      0.88        31
+            Severe       0.64      0.58      0.61        12
+       Very Severe       0.33      0.50      0.40         4
+
+          accuracy                           0.87       183
+         macro avg       0.78      0.75      0.76       183
+      weighted avg       0.88      0.87      0.87       183
+
+============================================================
+
+VISIT MODEL
+------------------------------------------------------------
+Accuracy: 35.52%
+AUC: 0.5534
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          V1       0.41      0.51      0.45        43
+          V2       0.23      0.17      0.20        46
+          V3       0.22      0.12      0.16        48
+          V4       0.43      0.63      0.51        46
+
+    accuracy                           0.36       183
+   macro avg       0.32      0.36      0.33       183
+weighted avg       0.32      0.36      0.33       183
+
+============================================================
+GENERATED FILES
+------------------------------------------------------------
+1. 1_individual_patient_longitudinal.png - 30 individual patient severity over time
+2. 2_combined_longitudinal_summary.png - All patients combined with trend lines
+3. 3_confusion_matrices.png - Model performance matrices
+1. individual_patients/ folder - Separate PNG for each patient
+2. 1_combined_mean_severity_over_time.png - Mean actual vs predicted trends
+3. 2_confusion_matrices.png - Severity & Visit confusion matrices
+4. 3_severity_metrics_summary.png - Severity model performance metrics
+5. 4_severity_training_history.png - Severity training curves
+6. longitudinal_results.csv - Complete predictions with visit dates and months
+7. results_summary.txt (this file)
